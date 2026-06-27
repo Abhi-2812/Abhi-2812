@@ -229,13 +229,13 @@ Replace these with your real repositories:
 ## 🌐 Socials
 
 <p align="center">
-  <a href="https://instagram.com/@abhi_c_2004">
+  <a href="https://instagram.com/abhi_c_2004">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/abhishek-sushant-chaskar-63748b219">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://medium.com/@@abhishek.chaskar.tkc">
+  <a href="https://medium.com/@abhishek.chaskar.tkc">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a href="https://pinterest.com/abhishekchaskartkc">
