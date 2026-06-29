@@ -32,50 +32,57 @@
   </a>
 </p>
 
----
+---<!-- ========================= ABOUT ME ========================= -->
 
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzQwIiBoZWlnaHQ9Ijg2IiB2aWV3Qm94PSIwIDAgMzQwIDg2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxkZWZzPgogICAgPHN0eWxlIHR5cGU9InRleHQvY3NzIj48IVtDREFUQVsKICAgICAgQGltcG9ydCB1cmwoJ2h0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzMj9mYW1pbHk9UG9wcGluczp3Z2h0QDcwMCZkaXNwbGF5PXN3YXAnKTsKICAgICAgLmhlYWRpbmcgeyBmb250LWZhbWlseTogJ1BvcHBpbnMnLCBzYW5zLXNlcmlmOyBmb250LXdlaWdodDogNzAwOyB9CiAgICBdXT48L3N0eWxlPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJwaWxsR3JhZCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiM2MzY2RjEiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjOEI1Q0Y2Ii8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGZpbHRlciBpZD0icGlsbFNoYWRvdyIgeD0iLTIwJSIgeT0iLTUwJSIgd2lkdGg9IjE0MCUiIGhlaWdodD0iMjIwJSI+CiAgICAgIDxmZURyb3BTaGFkb3cgZHg9IjAiIGR5PSI2IiBzdGREZXZpYXRpb249IjEwIiBmbG9vZC1jb2xvcj0iIzYzNjZGMSIgZmxvb2Qtb3BhY2l0eT0iMC4zNSIvPgogICAgPC9maWx0ZXI+CiAgPC9kZWZzPgogIDxwYXRoIGQ9Ik0wLDAgSDI5Ny4wIEE0My4wLDQzLjAgMCAwIDEgMzQwLDQzLjAgVjQzLjAgQTQzLjAsNDMuMCAwIDAgMSAyOTcuMCw4NiBIMCBaIgogICAgICAgIGZpbGw9InVybCgjcGlsbEdyYWQpIiBmaWx0ZXI9InVybCgjcGlsbFNoYWRvdykiLz4KICA8dGV4dCB4PSI0NiIgeT0iNTMuODgiIGNsYXNzPSJoZWFkaW5nIiBmb250LXNpemU9IjMyIiBmaWxsPSIjZmZmZmZmIj7wn4yfIEFib3V0IE1lPC90ZXh0Pgo8L3N2Zz4K" alt="About Me" />
+<h1 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&pause=1000&color=A78BFA&vCenter=true&repeat=false&width=320&height=45&lines=About+Me" />
+</h1>
 
-I'm Abhishek Chaskar, and I enjoy building products that blend AI, automation, and clean user experiences.
+<table width="100%">
+<tr>
 
-At the moment, I'm working on:
-- Agentic AI applications and AI-powered automation workflows at **ztudium**
-- Scalable full-stack apps using **React, Node.js, GraphQL, Supabase, and Strapi**
-- AI solutions powered by **OpenAI** and **Google Gemini APIs**
-- Intelligent workflow automation with **n8n** and data pipelines
+<td width="58%" valign="top">
 
-I like projects that feel useful, fast, and production-ready.
+### Hi there 👋
 
----
+I'm **Abhishek Chaskar**.
 
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzIwIiBoZWlnaHQ9Ijg2IiB2aWV3Qm94PSIwIDAgNzIwIDg2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxkZWZzPgogICAgPHN0eWxlIHR5cGU9InRleHQvY3NzIj48IVtDREFUQVsKICAgICAgQGltcG9ydCB1cmwoJ2h0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzMj9mYW1pbHk9UG9wcGluczp3Z2h0QDcwMCZkaXNwbGF5PXN3YXAnKTsKICAgICAgLmhlYWRpbmcgeyBmb250LWZhbWlseTogJ1BvcHBpbnMnLCBzYW5zLXNlcmlmOyBmb250LXdlaWdodDogNzAwOyB9CiAgICBdXT48L3N0eWxlPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJwaWxsR3JhZCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiM2MzY2RjEiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjOEI1Q0Y2Ii8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGZpbHRlciBpZD0icGlsbFNoYWRvdyIgeD0iLTIwJSIgeT0iLTUwJSIgd2lkdGg9IjE0MCUiIGhlaWdodD0iMjIwJSI+CiAgICAgIDxmZURyb3BTaGFkb3cgZHg9IjAiIGR5PSI2IiBzdGREZXZpYXRpb249IjEwIiBmbG9vZC1jb2xvcj0iIzYzNjZGMSIgZmxvb2Qtb3BhY2l0eT0iMC4zNSIvPgogICAgPC9maWx0ZXI+CiAgPC9kZWZzPgogIDxwYXRoIGQ9Ik0wLDAgSDY3Ny4wIEE0My4wLDQzLjAgMCAwIDEgNzIwLDQzLjAgVjQzLjAgQTQzLjAsNDMuMCAwIDAgMSA2NzcuMCw4NiBIMCBaIgogICAgICAgIGZpbGw9InVybCgjcGlsbEdyYWQpIiBmaWx0ZXI9InVybCgjcGlsbFNoYWRvdykiLz4KICA8dGV4dCB4PSI0NiIgeT0iNTMuODgiIGNsYXNzPSJoZWFkaW5nIiBmb250LXNpemU9IjMyIiBmaWxsPSIjZmZmZmZmIj7wn5qAIFdoYXQgSSdtIEJ1aWxkaW5nIFJpZ2h0IE5vdzwvdGV4dD4KPC9zdmc+Cg==" alt="What I'm Building Right Now" />
+I build products where **Artificial Intelligence**, **Automation**, and **Modern Engineering** come together to solve real business problems.
 
-<table>
-  <tr>
-    <td><b>🤖 Agentic AI</b><br/>Multi-step assistants and autonomous workflows</td>
-    <td><b>⚡ Automation</b><br/>n8n-based business and ops automations</td>
-  </tr>
-  <tr>
-    <td><b>🌐 SaaS Products</b><br/>Modern full-stack web applications</td>
-    <td><b>🧠 LLM Systems</b><br/>RAG, prompt engineering, and knowledge systems</td>
-  </tr>
-  <tr>
-    <td><b>🏭 Digital Transformation</b><br/>Helping real businesses adopt tech</td>
-    <td><b>📦 Reliable Delivery</b><br/>Clean code, practical architecture, real outcomes</td>
-  </tr>
+Currently I'm focused on building scalable AI-powered platforms at **ztudium**, creating production-ready software that combines intelligent workflows with beautiful user experiences.
+
+<br>
+
+💡 **Currently Working On**
+
+- 🤖 Agentic AI Applications
+- ⚡ AI-powered Automation Workflows
+- 🌐 Full Stack SaaS Development
+- 🧠 OpenAI & Google Gemini Integrations
+- 🔄 Intelligent n8n Automations
+- 📊 Modern Data Pipelines
+
+<br>
+
+> **"I enjoy building software that feels fast, useful, and effortless."**
+
+</td>
+
+<td width="42%" align="center">
+
+<img width="320" src="YOUR_PROFILE_IMAGE_HERE"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Currently-Available_for_Collaboration-8B5CF6?style=for-the-badge"/>
+
+</td>
+
+</tr>
 </table>
 
 ---
 
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjIwIiBoZWlnaHQ9Ijg2IiB2aWV3Qm94PSIwIDAgNjIwIDg2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxkZWZzPgogICAgPHN0eWxlIHR5cGU9InRleHQvY3NzIj48IVtDREFUQVsKICAgICAgQGltcG9ydCB1cmwoJ2h0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzMj9mYW1pbHk9UG9wcGluczp3Z2h0QDcwMCZkaXNwbGF5PXN3YXAnKTsKICAgICAgLmhlYWRpbmcgeyBmb250LWZhbWlseTogJ1BvcHBpbnMnLCBzYW5zLXNlcmlmOyBmb250LXdlaWdodDogNzAwOyB9CiAgICBdXT48L3N0eWxlPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJwaWxsR3JhZCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiM2MzY2RjEiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjOEI1Q0Y2Ii8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGZpbHRlciBpZD0icGlsbFNoYWRvdyIgeD0iLTIwJSIgeT0iLTUwJSIgd2lkdGg9IjE0MCUiIGhlaWdodD0iMjIwJSI+CiAgICAgIDxmZURyb3BTaGFkb3cgZHg9IjAiIGR5PSI2IiBzdGREZXZpYXRpb249IjEwIiBmbG9vZC1jb2xvcj0iIzYzNjZGMSIgZmxvb2Qtb3BhY2l0eT0iMC4zNSIvPgogICAgPC9maWx0ZXI+CiAgPC9kZWZzPgogIDxwYXRoIGQ9Ik0wLDAgSDU3Ny4wIEE0My4wLDQzLjAgMCAwIDEgNjIwLDQzLjAgVjQzLjAgQTQzLjAsNDMuMCAwIDAgMSA1NzcuMCw4NiBIMCBaIgogICAgICAgIGZpbGw9InVybCgjcGlsbEdyYWQpIiBmaWx0ZXI9InVybCgjcGlsbFNoYWRvdykiLz4KICA8dGV4dCB4PSI0NiIgeT0iNTMuODgiIGNsYXNzPSJoZWFkaW5nIiBmb250LXNpemU9IjMyIiBmaWxsPSIjZmZmZmZmIj7wn6SdIEkgTGlrZSBDb2xsYWJvcmF0aW5nIE9uPC90ZXh0Pgo8L3N2Zz4K" alt="I Like Collaborating On" />
-
-- AI and Machine Learning projects
-- Agentic AI applications
-- Open source contributions
-- SaaS products
-- Full stack development
-- Workflow automation
-- Startup ideas and hackathons
 
 ---
 ## 🛠️ Tech Stack
