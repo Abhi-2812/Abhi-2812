@@ -4,19 +4,16 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/abhishek-sushant-chaskar-63748b219" title="LinkedIn">
-    <img src="./assets/links/linkedin.svg" width="58" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:abhishek.chaskar.tkc@gmail.com" title="Email">
-    <img src="./assets/links/mail.svg" width="58" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://medium.com/@abhishek.chaskar.tkc" title="Medium">
-    <img src="./assets/links/medium.svg" width="58" alt="Medium" />
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://instagram.com/abhi_c_2004" title="Instagram">
-    <img src="./assets/links/instagram.svg" width="58" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
@@ -108,17 +105,12 @@
 ## Find Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/abhishek-sushant-chaskar-63748b219" title="LinkedIn"><img src="./assets/links/linkedin.svg" width="58" alt="LinkedIn" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:abhishek.chaskar.tkc@gmail.com" title="Email"><img src="./assets/links/mail.svg" width="58" alt="Email" /></a>
-  &nbsp;&nbsp;
-  <a href="https://medium.com/@abhishek.chaskar.tkc" title="Medium"><img src="./assets/links/medium.svg" width="58" alt="Medium" /></a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/abhi_c_2004" title="Instagram"><img src="./assets/links/instagram.svg" width="58" alt="Instagram" /></a>
-  &nbsp;&nbsp;
-  <a href="https://pinterest.com/abhishekchaskartkc" title="Pinterest"><img src="./assets/links/pinterest.svg" width="58" alt="Pinterest" /></a>
-  &nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/32882847" title="Stack Overflow"><img src="./assets/links/stackoverflow.svg" width="58" alt="Stack Overflow" /></a>
+  <a href="https://linkedin.com/in/abhishek-sushant-chaskar-63748b219" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:abhishek.chaskar.tkc@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://medium.com/@abhishek.chaskar.tkc" title="Medium"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://instagram.com/abhi_c_2004" title="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://pinterest.com/abhishekchaskartkc" title="Pinterest"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
+  <a href="https://stackoverflow.com/users/32882847" title="Stack Overflow"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
 </p>
 
 <p align="center">
