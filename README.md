@@ -4,123 +4,89 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/abhishek-sushant-chaskar-63748b219" title="LinkedIn">
-    <img src="./assets/links/linkedin.svg" width="58" alt="LinkedIn" />
+    <img src="./assets/links/linkedin.svg" width="48" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:abhishek.chaskar.tkc@gmail.com" title="Email">
-    <img src="./assets/links/mail.svg" width="58" alt="Email" />
+    <img src="./assets/links/mail.svg" width="48" alt="Email" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://medium.com/@abhishek.chaskar.tkc" title="Medium">
-    <img src="./assets/links/medium.svg" width="58" alt="Medium" />
+    <img src="./assets/links/medium.svg" width="48" alt="Medium" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://instagram.com/abhi_c_2004" title="Instagram">
-    <img src="./assets/links/instagram.svg" width="58" alt="Instagram" />
+    <img src="./assets/links/instagram.svg" width="48" alt="Instagram" />
   </a>
 </p>
 
+<br>
+
+## About Me
+
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="" />
+  <img src="./assets/about-dynamic.svg" width="100%" alt="About Abhishek Chaskar: AI product engineering, automation workflows at ztudium, React, Node.js, GraphQL, Supabase, Strapi, OpenAI, Google Gemini, and n8n." />
 </p>
 
-## About
+## Current Focus
 
 <p align="center">
-  <img src="./assets/about-dynamic.svg" width="100%" alt="About Abhishek Chaskar: AI, automation, full stack engineering, ztudium, OpenAI, Gemini, n8n, React, Node.js, GraphQL, Supabase, and Strapi." />
-</p>
-
-> I like building software that feels premium, performs reliably, and solves real-world problems.
-
-## Focus Areas
-
-<p align="center">
-  <img src="./assets/focus-cards.svg" width="100%" alt="Focus areas: Agentic AI, RAG and knowledge systems, AI product development, and workflow automation." />
+  <img src="./assets/focus-cards.svg" width="100%" alt="Current focus: building AI agents, workflow automation, full stack development, and manufacturing technology." />
 </p>
 
 ## Tech Stack
 
 <p align="center">
-  <img src="./assets/tech-stack-board.svg" width="100%" alt="Technology stack board with React, Next.js, JavaScript, Node.js, GraphQL, Python, Supabase, Strapi, OpenAI, Google Gemini, n8n, Docker, GitHub, AWS, and Figma." />
+  <img src="./assets/tech-stack-board.svg" width="100%" alt="Categorized tech stack: frontend, backend, AI and data, databases, automation, cloud, and tools." />
 </p>
 
-## Ask Me About
-
-`Artificial Intelligence` `Machine Learning` `Prompt Engineering` `AI Automation`  
-`Computer Vision` `React and Node.js` `Python` `GraphQL`  
-`Supabase` `REST APIs` `Hackathons` `Tech Startups`
-
-## Projects Worth Highlighting
+## Featured Projects
 
 <p align="center">
-  <img src="./assets/projects-showcase.svg" width="100%" alt="Recent projects mockup cards for Agentic AI Assistant, AI Automation Workflow System, HerbTech, Abhishek Apparels Digital Platform, and Portfolio." />
+  <img src="./assets/projects-showcase.svg" width="100%" alt="Featured project cards for Agentic AI Assistant, AI Automation Workflow System, HerbTech, Abhishek Apparels Digital Platform, and Portfolio." />
 </p>
 
 <p align="center">
   <a href="#"><b>Agentic AI Assistant</b></a>
-  &nbsp;|&nbsp;
+  &nbsp;•&nbsp;
   <a href="#"><b>AI Automation Workflow System</b></a>
-  &nbsp;|&nbsp;
+  &nbsp;•&nbsp;
   <a href="#"><b>HerbTech</b></a>
-  &nbsp;|&nbsp;
+  &nbsp;•&nbsp;
   <a href="#"><b>Abhishek Apparels Digital Platform</b></a>
-  &nbsp;|&nbsp;
+  &nbsp;•&nbsp;
   <a href="#"><b>Portfolio / Personal Website</b></a>
 </p>
 
-## Currently Learning
+## Experience
 
 <p align="center">
-  <img src="./assets/currently-learning.svg" width="100%" alt="Currently learning: Agentic AI, Large Language Models, Google Gemini API, OpenAI API, GraphQL, n8n Automation, Supabase, Strapi CMS, Advanced Prompt Engineering, AI Product Development, Full Stack Development, and Workflow Automation." />
+  <img src="./assets/experience.svg" width="100%" alt="Experience: production-ready AI systems and automation workflows at ztudium, AI-first SaaS development, hackathon leadership, and manufacturing technology." />
 </p>
 
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhi-2812&show_icons=true&hide_border=true&bg_color=08080D&title_color=C4B5FD&text_color=E9D5FF&icon_color=A855F7" height="180" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=Abhi-2812&theme=tokyonight&hide_border=true&background=08080D&ring=8B5CF6&fire=A855F7&currStreakLabel=5EEBFF" height="180" alt="GitHub streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhi-2812&show_icons=true&hide_border=true&bg_color=0B0F19&title_color=F8FAFC&text_color=94A3B8&icon_color=7C3AED" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-2812&layout=compact&hide_border=true&bg_color=0B0F19&title_color=F8FAFC&text_color=94A3B8" height="170" alt="Top languages" />
+</p>
+
+## Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/abhishek-sushant-chaskar-63748b219" title="LinkedIn"><img src="./assets/links/linkedin.svg" width="48" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:abhishek.chaskar.tkc@gmail.com" title="Email"><img src="./assets/links/mail.svg" width="48" alt="Email" /></a>
+  &nbsp;
+  <a href="https://medium.com/@abhishek.chaskar.tkc" title="Medium"><img src="./assets/links/medium.svg" width="48" alt="Medium" /></a>
+  &nbsp;
+  <a href="https://instagram.com/abhi_c_2004" title="Instagram"><img src="./assets/links/instagram.svg" width="48" alt="Instagram" /></a>
+  &nbsp;
+  <a href="https://pinterest.com/abhishekchaskartkc" title="Pinterest"><img src="./assets/links/pinterest.svg" width="48" alt="Pinterest" /></a>
+  &nbsp;
+  <a href="https://stackoverflow.com/users/32882847" title="Stack Overflow"><img src="./assets/links/stackoverflow.svg" width="48" alt="Stack Overflow" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-2812&layout=compact&hide_border=true&bg_color=08080D&title_color=C4B5FD&text_color=E9D5FF" height="180" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="" />
-</p>
-
-## Activity
-
-<p align="center">
-  <img src="./assets/activity-panel.svg" width="100%" alt="GitHub activity panel" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" />
-</p>
-
-## Fun Fact
-
-<p align="center">
-  <img src="./assets/fun-facts.svg" width="100%" alt="Fun facts about Abhishek Chaskar: building products, hackathons, workflow automation, and apparel manufacturing technology." />
-</p>
-
-## Find Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/abhishek-sushant-chaskar-63748b219" title="LinkedIn"><img src="./assets/links/linkedin.svg" width="58" alt="LinkedIn" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:abhishek.chaskar.tkc@gmail.com" title="Email"><img src="./assets/links/mail.svg" width="58" alt="Email" /></a>
-  &nbsp;&nbsp;
-  <a href="https://medium.com/@abhishek.chaskar.tkc" title="Medium"><img src="./assets/links/medium.svg" width="58" alt="Medium" /></a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/abhi_c_2004" title="Instagram"><img src="./assets/links/instagram.svg" width="58" alt="Instagram" /></a>
-  &nbsp;&nbsp;
-  <a href="https://pinterest.com/abhishekchaskartkc" title="Pinterest"><img src="./assets/links/pinterest.svg" width="58" alt="Pinterest" /></a>
-  &nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/32882847" title="Stack Overflow"><img src="./assets/links/stackoverflow.svg" width="58" alt="Stack Overflow" /></a>
-</p>
-
-<p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Building with purpose. Shipping with speed." />
+  <img src="./assets/footer.svg" width="100%" alt="Building production-grade AI products with purpose." />
 </p>
