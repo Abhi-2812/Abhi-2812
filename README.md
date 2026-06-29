@@ -32,56 +32,69 @@
   </a>
 </p>
 
----<!-- ========================= ABOUT ME ========================= -->
+<!--━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-->
+<!--                     ABOUT ME                      -->
+<!--━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-->
 
-<h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&pause=1000&color=A78BFA&vCenter=true&repeat=false&width=320&height=45&lines=About+Me" />
-</h1>
+<p align="center">
 
-<table width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=✦%20About%20Me&fontSize=34&fontColor=C4B5FD&animation=fadeIn"/>
+
+</p>
+
+<table>
 <tr>
 
-<td width="58%" valign="top">
+<td width="62%" valign="top">
 
-### Hi there 👋
+## 👋 Hey, I'm Abhishek Chaskar
 
-I'm **Abhishek Chaskar**.
+I enjoy building products where **Artificial Intelligence**, **Automation**, and **Modern Engineering** come together to solve real business problems.
 
-I build products where **Artificial Intelligence**, **Automation**, and **Modern Engineering** come together to solve real business problems.
-
-Currently I'm focused on building scalable AI-powered platforms at **ztudium**, creating production-ready software that combines intelligent workflows with beautiful user experiences.
+Currently, I'm building **production-ready AI systems** at **ztudium**, combining intelligent workflows, scalable architecture, and clean user experiences.
 
 <br>
 
-💡 **Currently Working On**
+<img src="https://img.shields.io/badge/🤖%20Agentic%20AI-111827?style=for-the-badge&labelColor=7C3AED&color=18181B"/>
 
-- 🤖 Agentic AI Applications
-- ⚡ AI-powered Automation Workflows
-- 🌐 Full Stack SaaS Development
-- 🧠 OpenAI & Google Gemini Integrations
-- 🔄 Intelligent n8n Automations
-- 📊 Modern Data Pipelines
+<img src="https://img.shields.io/badge/⚡%20Automation-111827?style=for-the-badge&labelColor=8B5CF6&color=18181B"/>
 
-<br>
+<img src="https://img.shields.io/badge/🌐%20Full%20Stack-111827?style=for-the-badge&labelColor=A855F7&color=18181B"/>
 
-> **"I enjoy building software that feels fast, useful, and effortless."**
+<img src="https://img.shields.io/badge/🧠%20OpenAI%20%26%20Gemini-111827?style=for-the-badge&labelColor=9333EA&color=18181B"/>
 
-</td>
-
-<td width="42%" align="center">
-
-<img width="320" src="YOUR_PROFILE_IMAGE_HERE"/>
+<img src="https://img.shields.io/badge/🔄%20n8n%20Automation-111827?style=for-the-badge&labelColor=7E22CE&color=18181B"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Currently-Available_for_Collaboration-8B5CF6?style=for-the-badge"/>
+> *"I like building software that feels premium, performs reliably, and solves real-world problems."*
+
+</td>
+
+<td width="38%" align="center">
+
+<img width="320" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=C4B5FD&text_color=E9D5FF&icon_color=A855F7"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Available_for-Collaboration-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=8B5CF6"/>
 
 </td>
 
 </tr>
 </table>
 
----
+<br>
+
+<p align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8B5CF6"/>
+
+</p>
 
 
 ---
