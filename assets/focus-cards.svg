@@ -1,0 +1,46 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Focus area cards</title>
+  <desc id="desc">Four premium focus cards: Agentic AI, RAG, AI Product Development, and Workflow Automation.</desc>
+  <defs>
+    <radialGradient id="bg" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(540 0) rotate(90) scale(390 720)">
+      <stop stop-color="#8B5CF6" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#08080D" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="card" x1="74" y1="64" x2="530" y2="292" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.13"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.055"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="430" rx="34" fill="#08080D"/>
+  <rect width="1200" height="430" rx="34" fill="url(#bg)"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <g transform="translate(58 58)">
+      <rect width="510" height="135" rx="24" fill="url(#card)" stroke="#FFFFFF" stroke-opacity="0.13"/>
+      <circle cx="48" cy="42" r="11" fill="#8B5CF6"/>
+      <text x="78" y="48" fill="#FFFFFF" font-size="25" font-weight="800">Agentic AI</text>
+      <text x="32" y="88" fill="#E5E7EB" font-size="17" font-weight="500">Systems that can plan, reason, use tools,</text>
+      <text x="32" y="114" fill="#E5E7EB" font-size="17" font-weight="500">and act across product workflows.</text>
+    </g>
+    <g transform="translate(632 58)">
+      <rect width="510" height="135" rx="24" fill="url(#card)" stroke="#FFFFFF" stroke-opacity="0.13"/>
+      <circle cx="48" cy="42" r="11" fill="#5EEBFF"/>
+      <text x="78" y="48" fill="#FFFFFF" font-size="25" font-weight="800">RAG &amp; Knowledge Systems</text>
+      <text x="32" y="88" fill="#E5E7EB" font-size="17" font-weight="500">Retrieval, context engineering, grounded</text>
+      <text x="32" y="114" fill="#E5E7EB" font-size="17" font-weight="500">answers, and practical LLM behavior.</text>
+    </g>
+    <g transform="translate(58 238)">
+      <rect width="510" height="135" rx="24" fill="url(#card)" stroke="#FFFFFF" stroke-opacity="0.13"/>
+      <circle cx="48" cy="42" r="11" fill="#A855F7"/>
+      <text x="78" y="48" fill="#FFFFFF" font-size="25" font-weight="800">AI Product Development</text>
+      <text x="32" y="88" fill="#E5E7EB" font-size="17" font-weight="500">Taking AI ideas from prototype to production</text>
+      <text x="32" y="114" fill="#E5E7EB" font-size="17" font-weight="500">with usable interfaces and reliable systems.</text>
+    </g>
+    <g transform="translate(632 238)">
+      <rect width="510" height="135" rx="24" fill="url(#card)" stroke="#FFFFFF" stroke-opacity="0.13"/>
+      <circle cx="48" cy="42" r="11" fill="#5EEBFF"/>
+      <text x="78" y="48" fill="#FFFFFF" font-size="25" font-weight="800">Workflow Automation</text>
+      <text x="32" y="88" fill="#E5E7EB" font-size="17" font-weight="500">Smart pipelines, n8n automations, and</text>
+      <text x="32" y="114" fill="#E5E7EB" font-size="17" font-weight="500">AI-powered operating systems.</text>
+    </g>
+  </g>
+</svg>
