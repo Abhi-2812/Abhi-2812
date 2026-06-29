@@ -2,14 +2,12 @@
 <!--        HEADER HERO        -->
 <!-- ========================= -->
 
-<h1 align="center">Hi 👋, I'm Abhishek Chaskar</h1>
-
-<h3 align="center">
-  AI Engineer • Full Stack Developer • Automation Builder • Entrepreneur
-</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Abhishek%20Chaskar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Automation%20Builder&descAlignY=58&descSize=18&descColor=E0E7FF" width="100%" alt="Abhishek Chaskar" />
+</p>
 
 <p align="center">
-  I build intelligent products, automate workflows, and turn ideas into real-world systems.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Agentic+AI+Applications;AI+Powered+Automation;Full+Stack+SaaS+Products;React+%7C+Node.js+%7C+GraphQL;OpenAI+%7C+Gemini+%7C+n8n;Building+for+Real+Impact" alt="Typing SVG" />
 </p>
 
 <p align="center">
