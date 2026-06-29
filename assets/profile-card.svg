@@ -1,0 +1,32 @@
+<svg width="520" height="320" viewBox="0 0 520 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Profile focus card</title>
+  <desc id="desc">A glass profile card listing Abhishek Chaskar's core focus areas.</desc>
+  <defs>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(108 36) rotate(42) scale(384 190)">
+      <stop stop-color="#8B5CF6" stop-opacity="0.64"/>
+      <stop offset="1" stop-color="#08080D" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="border" x1="28" y1="28" x2="492" y2="292" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EEBFF" stop-opacity="0.45"/>
+      <stop offset="0.55" stop-color="#A855F7" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.12"/>
+    </linearGradient>
+  </defs>
+  <rect width="520" height="320" rx="28" fill="#08080D"/>
+  <rect width="520" height="320" rx="28" fill="url(#glow)"/>
+  <rect x="26" y="26" width="468" height="268" rx="24" fill="#12121B" fill-opacity="0.76" stroke="url(#border)"/>
+  <text x="54" y="74" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="800">Product-minded AI engineering</text>
+  <text x="54" y="105" fill="#C4B5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="500">ztudium / agentic systems / automation</text>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">
+    <rect x="54" y="136" width="180" height="42" rx="14" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <text x="74" y="162" fill="#EDE9FE">Agentic AI Apps</text>
+    <rect x="246" y="136" width="220" height="42" rx="14" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <text x="266" y="162" fill="#EDE9FE">AI Automation Workflows</text>
+    <rect x="54" y="190" width="180" height="42" rx="14" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <text x="74" y="216" fill="#EDE9FE">RAG Systems</text>
+    <rect x="246" y="190" width="220" height="42" rx="14" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <text x="266" y="216" fill="#EDE9FE">Full Stack SaaS</text>
+  </g>
+  <path d="M54 260H466" stroke="#FFFFFF" stroke-opacity="0.11"/>
+  <text x="54" y="276" fill="#5EEBFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Building with purpose. Shipping with speed. Learning every day.</text>
+</svg>
