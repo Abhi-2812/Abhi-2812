@@ -1,6 +1,1 @@
-<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Email">
-  <rect width="64" height="64" rx="16" fill="#111827"/>
-  <rect x="1" y="1" width="62" height="62" rx="15" stroke="#FFFFFF" stroke-opacity=".08"/>
-  <path d="M18 23h28v20H18V23Z" stroke="#C4B5FD" stroke-width="3" stroke-linejoin="round"/>
-  <path d="m19 24 13 11 13-11" stroke="#C4B5FD" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="64" height="64" rx="16" fill="#12121B"/><rect x="1" y="1" width="62" height="62" rx="15" stroke="#FFFFFF" stroke-opacity=".12"/><path d="M18 23h28v20H18V23Z" stroke="#A855F7" stroke-width="3" stroke-linejoin="round"/><path d="m19 24 13 11 13-11" stroke="#5EEBFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>
