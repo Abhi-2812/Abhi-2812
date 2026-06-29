@@ -73,7 +73,7 @@ Currently, I'm building **production-ready AI systems** at **ztudium**, combinin
 
 <td width="38%" align="center">
 
-<img width="320" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=C4B5FD&text_color=E9D5FF&icon_color=A855F7"/>
+<img width="320" src="https://github-readme-stats.vercel.app/api?username=Abhi-2812&show_icons=true&hide_border=true&bg_color=00000000&title_color=C4B5FD&text_color=E9D5FF&icon_color=A855F7"/>
 
 <br>
 
@@ -81,7 +81,7 @@ Currently, I'm building **production-ready AI systems** at **ztudium**, combinin
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=8B5CF6"/>
+<img src="https://komarev.com/ghpvc/?username=Abhi-2812&style=for-the-badge&color=8B5CF6"/>
 
 </td>
 
