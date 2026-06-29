@@ -1,0 +1,40 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Fun facts about Abhishek Chaskar</title>
+  <desc id="desc">An avatar card with fun facts about building AI apps, hackathons, automation, and apparel manufacturing.</desc>
+  <rect width="1200" height="430" rx="34" fill="#F8F1E8"/>
+  <path d="M430 50v330" stroke="#111827" stroke-opacity=".45" stroke-dasharray="10 10"/>
+  <g transform="translate(94 58)">
+    <circle cx="150" cy="120" r="102" fill="#D9FBFF" stroke="#111827" stroke-width="3"/>
+    <path d="M78 126C74 52 122 22 164 34c42 12 70 54 64 100" fill="#B6F4F6" stroke="#111827" stroke-width="3"/>
+    <circle cx="118" cy="126" r="14" fill="#111827"/><circle cx="184" cy="126" r="14" fill="#111827"/>
+    <path d="M138 168c18 18 42 18 60 0" stroke="#111827" stroke-width="4" stroke-linecap="round"/>
+    <rect x="88" y="210" width="128" height="86" rx="12" fill="#FFFFFF" stroke="#111827" stroke-width="3"/>
+    <path d="M88 242h128M88 270h128" stroke="#A855F7" stroke-width="3"/>
+    <text x="150" y="334" text-anchor="middle" fill="#111827" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="900">ABHISHEK CHASKAR</text>
+    <text x="150" y="362" text-anchor="middle" fill="#111827" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">AI ENGINEER</text>
+  </g>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="486" y="78" fill="#111827" font-size="22" font-weight="950">FUN FACTS</text>
+    <g transform="translate(486 106)">
+      <rect x="62" y="0" width="520" height="46" rx="20" fill="#FFF7C2" stroke="#111827" stroke-width="2"/>
+      <text x="86" y="29" fill="#111827" font-size="15" font-weight="700">I enjoy turning ideas into real products, not just demos.</text>
+      <path d="M24 8c22 18 22 38 0 54C2 46 2 26 24 8Z" fill="#FACC15" stroke="#111827" stroke-width="2"/>
+    </g>
+    <g transform="translate(486 174)">
+      <rect x="62" y="0" width="520" height="46" rx="20" fill="#FFD6E7" stroke="#111827" stroke-width="2"/>
+      <text x="86" y="29" fill="#111827" font-size="15" font-weight="700">I like leading hackathon teams and shipping under pressure.</text>
+      <path d="M24 0v58M10 16h28M8 42h32" stroke="#111827" stroke-width="3"/>
+    </g>
+    <g transform="translate(486 242)">
+      <rect x="62" y="0" width="520" height="46" rx="20" fill="#CFFAFE" stroke="#111827" stroke-width="2"/>
+      <text x="86" y="29" fill="#111827" font-size="15" font-weight="700">I automate workflows with AI, n8n, OpenAI, and Gemini.</text>
+      <path d="M20 0l34 32H30l-10 36L0 34h24L20 0Z" fill="#5EEBFF" stroke="#111827" stroke-width="2"/>
+    </g>
+    <g transform="translate(486 310)">
+      <rect x="62" y="0" width="520" height="46" rx="20" fill="#E9D5FF" stroke="#111827" stroke-width="2"/>
+      <text x="86" y="29" fill="#111827" font-size="15" font-weight="700">I help grow my family's apparel manufacturing business with tech.</text>
+      <circle cx="24" cy="24" r="20" fill="#A855F7" fill-opacity=".28" stroke="#111827" stroke-width="2"/>
+      <path d="M12 24h24M24 12v24" stroke="#111827" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

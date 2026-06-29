@@ -1,0 +1,44 @@
+<svg width="1200" height="620" viewBox="0 0 1200 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Technology stack board</title>
+  <desc id="desc">A premium board of technology logo tiles grouped around stack of technology.</desc>
+  <defs>
+    <radialGradient id="bg1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(240 100) rotate(35) scale(520 260)">
+      <stop stop-color="#8B5CF6" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#08080D" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="bg2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(940 60) rotate(140) scale(560 260)">
+      <stop stop-color="#5EEBFF" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#08080D" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="tile" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FFFFFF" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity=".06"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="620" rx="34" fill="#08080D"/>
+  <rect width="1200" height="620" rx="34" fill="url(#bg1)"/>
+  <rect width="1200" height="620" rx="34" fill="url(#bg2)"/>
+  <text x="600" y="72" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="850">Stack Of Technology</text>
+  <text x="600" y="104" text-anchor="middle" fill="#C4B5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">AI products / full stack systems / workflow automation</text>
+  <circle cx="600" cy="316" r="84" fill="#FFFFFF" fill-opacity=".045" stroke="#A855F7" stroke-opacity=".34"/>
+  <circle cx="600" cy="316" r="54" fill="#12121B" stroke="#5EEBFF" stroke-opacity=".28"/>
+  <text x="600" y="306" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="850">AI +</text>
+  <text x="600" y="334" text-anchor="middle" fill="#5EEBFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="850">SaaS</text>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="850" text-anchor="middle">
+    <g transform="translate(150 150)"><rect width="118" height="118" rx="24" fill="url(#tile)" stroke="#FFFFFF" stroke-opacity=".12"/><text x="59" y="70" fill="#61DAFB" font-size="31">React</text></g>
+    <g transform="translate(310 150)"><rect width="118" height="118" rx="24" fill="url(#tile)" stroke="#FFFFFF" stroke-opacity=".12"/><text x="59" y="70" fill="#FFFFFF" font-size="28">Next</text></g>
+    <g transform="translate(470 150)"><rect width="118" height="118" rx="24" fill="url(#tile)" stroke="#FFFFFF" stroke-opacity=".12"/><text x="59" y="70" fill="#8B5CF6" font-size="25">GraphQL</text></g>
+    <g transform="translate(630 150)"><rect width="118" height="118" rx="24" fill="url(#tile)" stroke="#FFFFFF" stroke-opacity=".12"/><text x="59" y="70" fill="#7DD3FC" font-size="29">Node</text></g>
+    <g transform="translate(790 150)"><rect width="118" height="118" rx="24" fill="url(#tile)" stroke="#FFFFFF" stroke-opacity=".12"/><text x="59" y="70" fill="#F7DF1E" font-size="24">JavaScript</text></g>
+    <g transform="translate(950 150)"><rect width="118" height="118" rx="24" fill="url(#tile)" stroke="#FFFFFF" stroke-opacity=".12"/><text x="59" y="70" fill="#5EEBFF" font-size="29">OpenAI</text></g>
+    <g transform="translate(230 328)"><rect width="118" height="118" rx="24" fill="url(#tile)" stroke="#FFFFFF" stroke-opacity=".12"/><text x="59" y="70" fill="#3776AB" font-size="27">Python</text></g>
+    <g transform="translate(390 328)"><rect width="118" height="118" rx="24" fill="url(#tile)" stroke="#FFFFFF" stroke-opacity=".12"/><text x="59" y="70" fill="#3ECF8E" font-size="24">Supabase</text></g>
+    <g transform="translate(692 328)"><rect width="118" height="118" rx="24" fill="url(#tile)" stroke="#FFFFFF" stroke-opacity=".12"/><text x="59" y="70" fill="#A855F7" font-size="30">n8n</text></g>
+    <g transform="translate(852 328)"><rect width="118" height="118" rx="24" fill="url(#tile)" stroke="#FFFFFF" stroke-opacity=".12"/><text x="59" y="70" fill="#5EEBFF" font-size="27">Gemini</text></g>
+    <g transform="translate(1012 328)"><rect width="118" height="118" rx="24" fill="url(#tile)" stroke="#FFFFFF" stroke-opacity=".12"/><text x="59" y="70" fill="#8B5CF6" font-size="27">Strapi</text></g>
+    <g transform="translate(310 486)"><rect width="118" height="82" rx="20" fill="url(#tile)" stroke="#FFFFFF" stroke-opacity=".12"/><text x="59" y="50" fill="#FF9900" font-size="25">AWS</text></g>
+    <g transform="translate(470 486)"><rect width="118" height="82" rx="20" fill="url(#tile)" stroke="#FFFFFF" stroke-opacity=".12"/><text x="59" y="50" fill="#38BDF8" font-size="22">Docker</text></g>
+    <g transform="translate(630 486)"><rect width="118" height="82" rx="20" fill="url(#tile)" stroke="#FFFFFF" stroke-opacity=".12"/><text x="59" y="50" fill="#FFFFFF" font-size="23">GitHub</text></g>
+    <g transform="translate(790 486)"><rect width="118" height="82" rx="20" fill="url(#tile)" stroke="#FFFFFF" stroke-opacity=".12"/><text x="59" y="50" fill="#F24E1E" font-size="23">Figma</text></g>
+  </g>
+</svg>

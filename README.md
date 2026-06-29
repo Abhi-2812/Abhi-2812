@@ -40,26 +40,9 @@
 
 ## Tech Stack
 
-**Frontend**  
-React, Next.js, JavaScript, HTML, CSS, Bootstrap, Framer Motion
-
-**Backend**  
-Node.js, FastAPI, Flask, GraphQL, Sequelize, REST APIs
-
-**AI / Data**  
-Python, Machine Learning, TensorFlow, PyTorch, scikit-learn, OpenCV, NumPy, Pandas, OpenAI, Google Gemini
-
-**Databases / CMS**  
-Supabase, MySQL, Strapi CMS
-
-**Automation / Testing**  
-n8n, Selenium, Playwright, Puppeteer, Prompt Engineering
-
-**Cloud / DevOps**  
-AWS, Google Cloud, Cloudflare, Vercel, Render, Docker
-
-**Tools / Design**  
-Git, GitHub, Figma, Notion, Canva, Jira, Confluence
+<p align="center">
+  <img src="./assets/tech-stack-board.svg" width="100%" alt="Technology stack board with React, Next.js, JavaScript, Node.js, GraphQL, Python, Supabase, Strapi, OpenAI, Google Gemini, n8n, Docker, GitHub, AWS, and Figma." />
+</p>
 
 <p align="center">
   <a href="https://react.dev" title="React"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="58" alt="React" /></a>
@@ -94,20 +77,21 @@ Git, GitHub, Figma, Notion, Canva, Jira, Confluence
 
 ## Projects Worth Highlighting
 
-**[Agentic AI Assistant](#)**  
-Agentic AI project highlight retained from the original README.
+<p align="center">
+  <img src="./assets/projects-showcase.svg" width="100%" alt="Recent projects mockup cards for Agentic AI Assistant, AI Automation Workflow System, HerbTech, Abhishek Apparels Digital Platform, and Portfolio." />
+</p>
 
-**[AI Automation Workflow System](#)**  
-AI automation workflow project highlight retained from the original README.
-
-**[HerbTech](#)**  
-Project highlight retained from the original profile README.
-
-**[Abhishek Apparels Digital Platform](#)**  
-Digital platform direction connected to apparel manufacturing and technology-led growth.
-
-**[Portfolio / Personal Website](#)**  
-Personal brand and portfolio experience for presenting engineering, AI, and product work.
+<p align="center">
+  <a href="#"><b>Agentic AI Assistant</b></a>
+  &nbsp;|&nbsp;
+  <a href="#"><b>AI Automation Workflow System</b></a>
+  &nbsp;|&nbsp;
+  <a href="#"><b>HerbTech</b></a>
+  &nbsp;|&nbsp;
+  <a href="#"><b>Abhishek Apparels Digital Platform</b></a>
+  &nbsp;|&nbsp;
+  <a href="#"><b>Portfolio / Personal Website</b></a>
+</p>
 
 ## Currently Learning
 
@@ -133,20 +117,18 @@ Personal brand and portfolio experience for presenting engineering, AI, and prod
 ## Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhi-2812/Abhi-2812/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  <img src="./assets/activity-panel.svg" width="100%" alt="GitHub activity panel" />
 </p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhi-2812&style=for-the-badge&color=8B5CF6" alt="Profile visitor counter" />
-</p>
-
 ## Fun Fact
 
-I enjoy turning ideas into real products, whether it is building AI applications, leading hackathon teams, automating workflows, or helping grow my family's apparel manufacturing business through technology.
+<p align="center">
+  <img src="./assets/fun-facts.svg" width="100%" alt="Fun facts about Abhishek Chaskar: building products, hackathons, workflow automation, and apparel manufacturing technology." />
+</p>
 
 ## Find Me
 
