@@ -3,13 +3,21 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/abhishek-sushant-chaskar-63748b219"><b>LinkedIn</b></a>
-  &nbsp;|&nbsp;
-  <a href="mailto:abhishek.chaskar.tkc@gmail.com"><b>Email</b></a>
-  &nbsp;|&nbsp;
-  <a href="https://medium.com/@abhishek.chaskar.tkc"><b>Medium</b></a>
-  &nbsp;|&nbsp;
-  <a href="https://instagram.com/abhi_c_2004"><b>Instagram</b></a>
+  <a href="https://linkedin.com/in/abhishek-sushant-chaskar-63748b219" title="LinkedIn">
+    <img src="./assets/links/linkedin.svg" width="58" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:abhishek.chaskar.tkc@gmail.com" title="Email">
+    <img src="./assets/links/mail.svg" width="58" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@abhishek.chaskar.tkc" title="Medium">
+    <img src="./assets/links/medium.svg" width="58" alt="Medium" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/abhi_c_2004" title="Instagram">
+    <img src="./assets/links/instagram.svg" width="58" alt="Instagram" />
+  </a>
 </p>
 
 <p align="center">
@@ -18,169 +26,94 @@
 
 ## About
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
-      <h3>Hey, I'm Abhishek Chaskar.</h3>
-      <p>
-        I enjoy building products where <b>Artificial Intelligence</b>, <b>Automation</b>, and
-        <b>Modern Engineering</b> come together to solve real business problems.
-      </p>
-      <p>
-        Currently, I'm building <b>production-ready AI systems</b> and <b>AI-powered automation workflows</b>
-        at <b>ztudium</b>, combining intelligent workflows, scalable architecture, and clean user experiences.
-      </p>
-      <p>
-        <b>Core stack:</b> React, Node.js, GraphQL, Supabase, Strapi, OpenAI, Google Gemini, and n8n.
-      </p>
-      <blockquote>
-        I like building software that feels premium, performs reliably, and solves real-world problems.
-      </blockquote>
-    </td>
-    <td width="42%" align="center" valign="top">
-      <img src="./assets/profile-card.svg" width="100%" alt="Product-minded AI engineering focus card" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/about-dynamic.svg" width="100%" alt="About Abhishek Chaskar: AI, automation, full stack engineering, ztudium, OpenAI, Gemini, n8n, React, Node.js, GraphQL, Supabase, and Strapi." />
+</p>
+
+> I like building software that feels premium, performs reliably, and solves real-world problems.
 
 ## Focus Areas
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Agentic AI</h3>
-      <p>Building systems that can plan, reason, use tools, and act across product workflows.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>RAG & Knowledge Systems</h3>
-      <p>Retrieval, context engineering, grounded answers, and practical LLM product behavior.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>AI Product Development</h3>
-      <p>Taking AI ideas from prototype to production with usable interfaces and reliable systems.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Workflow Automation</h3>
-      <p>Saving time with smart pipelines, n8n automations, and AI-powered operating systems.</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/focus-cards.svg" width="100%" alt="Focus areas: Agentic AI, RAG and knowledge systems, AI product development, and workflow automation." />
+</p>
 
 ## Tech Stack
 
-<table>
-  <tr>
-    <td width="25%"><b>Frontend</b></td>
-    <td>React, Next.js, JavaScript, HTML, CSS, Bootstrap, Framer Motion</td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>Node.js, FastAPI, Flask, GraphQL, Sequelize, REST APIs</td>
-  </tr>
-  <tr>
-    <td><b>AI / Data</b></td>
-    <td>Python, Machine Learning, TensorFlow, PyTorch, scikit-learn, OpenCV, NumPy, Pandas, OpenAI, Google Gemini</td>
-  </tr>
-  <tr>
-    <td><b>Databases / CMS</b></td>
-    <td>Supabase, MySQL, Strapi CMS</td>
-  </tr>
-  <tr>
-    <td><b>Automation / Testing</b></td>
-    <td>n8n, Selenium, Playwright, Puppeteer, Prompt Engineering</td>
-  </tr>
-  <tr>
-    <td><b>Cloud / DevOps</b></td>
-    <td>AWS, Google Cloud, Cloudflare, Vercel, Render, Docker</td>
-  </tr>
-  <tr>
-    <td><b>Tools / Design</b></td>
-    <td>Git, GitHub, Figma, Notion, Canva, Jira, Confluence</td>
-  </tr>
-</table>
+**Frontend**  
+React, Next.js, JavaScript, HTML, CSS, Bootstrap, Framer Motion
+
+**Backend**  
+Node.js, FastAPI, Flask, GraphQL, Sequelize, REST APIs
+
+**AI / Data**  
+Python, Machine Learning, TensorFlow, PyTorch, scikit-learn, OpenCV, NumPy, Pandas, OpenAI, Google Gemini
+
+**Databases / CMS**  
+Supabase, MySQL, Strapi CMS
+
+**Automation / Testing**  
+n8n, Selenium, Playwright, Puppeteer, Prompt Engineering
+
+**Cloud / DevOps**  
+AWS, Google Cloud, Cloudflare, Vercel, Render, Docker
+
+**Tools / Design**  
+Git, GitHub, Figma, Notion, Canva, Jira, Confluence
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,graphql,py,fastapi,flask,supabase,mysql,tensorflow,pytorch,opencv,selenium,aws,gcp,cloudflare,vercel,docker,git,github,figma,notion&theme=dark" alt="Technology icons" />
+  <a href="https://react.dev" title="React"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="58" alt="React" /></a>
+  <a href="https://nextjs.org" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="58" alt="Next.js" /></a>
+  <a href="https://nodejs.org" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="58" alt="Node.js" /></a>
+  <a href="https://graphql.org" title="GraphQL"><img src="https://skillicons.dev/icons?i=graphql&theme=dark" width="58" alt="GraphQL" /></a>
+  <a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="58" alt="Python" /></a>
+  <a href="https://fastapi.tiangolo.com" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="58" alt="FastAPI" /></a>
+  <a href="https://flask.palletsprojects.com" title="Flask"><img src="https://skillicons.dev/icons?i=flask&theme=dark" width="58" alt="Flask" /></a>
+  <a href="https://supabase.com" title="Supabase"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="58" alt="Supabase" /></a>
+  <a href="https://www.mysql.com" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="58" alt="MySQL" /></a>
+  <a href="https://www.tensorflow.org" title="TensorFlow"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="58" alt="TensorFlow" /></a>
+  <a href="https://pytorch.org" title="PyTorch"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="58" alt="PyTorch" /></a>
+  <a href="https://opencv.org" title="OpenCV"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="58" alt="OpenCV" /></a>
+  <a href="https://www.selenium.dev" title="Selenium"><img src="https://skillicons.dev/icons?i=selenium&theme=dark" width="58" alt="Selenium" /></a>
+  <a href="https://aws.amazon.com" title="AWS"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="58" alt="AWS" /></a>
+  <a href="https://cloud.google.com" title="Google Cloud"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="58" alt="Google Cloud" /></a>
+  <a href="https://www.cloudflare.com" title="Cloudflare"><img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" width="58" alt="Cloudflare" /></a>
+  <a href="https://vercel.com" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="58" alt="Vercel" /></a>
+  <a href="https://www.docker.com" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="58" alt="Docker" /></a>
+  <a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="58" alt="Git" /></a>
+  <a href="https://github.com" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="58" alt="GitHub" /></a>
+  <a href="https://figma.com" title="Figma"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="58" alt="Figma" /></a>
+  <a href="https://notion.so" title="Notion"><img src="https://skillicons.dev/icons?i=notion&theme=dark" width="58" alt="Notion" /></a>
 </p>
 
 ## Ask Me About
 
-<table>
-  <tr>
-    <td>Artificial Intelligence</td>
-    <td>Machine Learning</td>
-    <td>Prompt Engineering</td>
-    <td>AI Automation</td>
-  </tr>
-  <tr>
-    <td>Computer Vision</td>
-    <td>React and Node.js</td>
-    <td>Python</td>
-    <td>GraphQL</td>
-  </tr>
-  <tr>
-    <td>Supabase</td>
-    <td>REST APIs</td>
-    <td>Hackathons</td>
-    <td>Tech Startups</td>
-  </tr>
-</table>
+`Artificial Intelligence` `Machine Learning` `Prompt Engineering` `AI Automation`  
+`Computer Vision` `React and Node.js` `Python` `GraphQL`  
+`Supabase` `REST APIs` `Hackathons` `Tech Startups`
 
 ## Projects Worth Highlighting
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="#">Agentic AI Assistant</a></h3>
-      <p>Agentic AI project highlight retained from the original README.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="#">AI Automation Workflow System</a></h3>
-      <p>AI automation workflow project highlight retained from the original README.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="#">HerbTech</a></h3>
-      <p>Project highlight retained from the original profile README.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="#">Abhishek Apparels Digital Platform</a></h3>
-      <p>Digital platform direction connected to apparel manufacturing and technology-led growth.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" valign="top" colspan="2">
-      <h3><a href="#">Portfolio / Personal Website</a></h3>
-      <p>Personal brand and portfolio experience for presenting engineering, AI, and product work.</p>
-    </td>
-  </tr>
-</table>
+**[Agentic AI Assistant](#)**  
+Agentic AI project highlight retained from the original README.
+
+**[AI Automation Workflow System](#)**  
+AI automation workflow project highlight retained from the original README.
+
+**[HerbTech](#)**  
+Project highlight retained from the original profile README.
+
+**[Abhishek Apparels Digital Platform](#)**  
+Digital platform direction connected to apparel manufacturing and technology-led growth.
+
+**[Portfolio / Personal Website](#)**  
+Personal brand and portfolio experience for presenting engineering, AI, and product work.
 
 ## Currently Learning
 
-<table>
-  <tr>
-    <td>Agentic AI</td>
-    <td>Large Language Models</td>
-    <td>Google Gemini API</td>
-    <td>OpenAI API</td>
-  </tr>
-  <tr>
-    <td>GraphQL</td>
-    <td>n8n Automation</td>
-    <td>Supabase</td>
-    <td>Strapi CMS</td>
-  </tr>
-  <tr>
-    <td>Advanced Prompt Engineering</td>
-    <td>AI Product Development</td>
-    <td>Full Stack Development</td>
-    <td>Workflow Automation</td>
-  </tr>
-</table>
+`Agentic AI` `Large Language Models` `Google Gemini API` `OpenAI API`  
+`GraphQL` `n8n Automation` `Supabase` `Strapi CMS`  
+`Advanced Prompt Engineering` `AI Product Development` `Full Stack Development` `Workflow Automation`
 
 ## GitHub Analytics
 
@@ -215,20 +148,21 @@
 
 I enjoy turning ideas into real products, whether it is building AI applications, leading hackathon teams, automating workflows, or helping grow my family's apparel manufacturing business through technology.
 
-## Connect
+## Find Me
 
-<table>
-  <tr>
-    <td><a href="https://linkedin.com/in/abhishek-sushant-chaskar-63748b219">LinkedIn</a></td>
-    <td><a href="mailto:abhishek.chaskar.tkc@gmail.com">abhishek.chaskar.tkc@gmail.com</a></td>
-    <td><a href="https://medium.com/@abhishek.chaskar.tkc">Medium</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://instagram.com/abhi_c_2004">Instagram</a></td>
-    <td><a href="https://pinterest.com/abhishekchaskartkc">Pinterest</a></td>
-    <td><a href="https://stackoverflow.com/users/32882847">Stack Overflow</a></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://linkedin.com/in/abhishek-sushant-chaskar-63748b219" title="LinkedIn"><img src="./assets/links/linkedin.svg" width="58" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:abhishek.chaskar.tkc@gmail.com" title="Email"><img src="./assets/links/mail.svg" width="58" alt="Email" /></a>
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@abhishek.chaskar.tkc" title="Medium"><img src="./assets/links/medium.svg" width="58" alt="Medium" /></a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/abhi_c_2004" title="Instagram"><img src="./assets/links/instagram.svg" width="58" alt="Instagram" /></a>
+  &nbsp;&nbsp;
+  <a href="https://pinterest.com/abhishekchaskartkc" title="Pinterest"><img src="./assets/links/pinterest.svg" width="58" alt="Pinterest" /></a>
+  &nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/32882847" title="Stack Overflow"><img src="./assets/links/stackoverflow.svg" width="58" alt="Stack Overflow" /></a>
+</p>
 
 <p align="center">
   <img src="./assets/footer.svg" width="100%" alt="Building with purpose. Shipping with speed." />
