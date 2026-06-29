@@ -44,31 +44,6 @@
   <img src="./assets/tech-stack-board.svg" width="100%" alt="Technology stack board with React, Next.js, JavaScript, Node.js, GraphQL, Python, Supabase, Strapi, OpenAI, Google Gemini, n8n, Docker, GitHub, AWS, and Figma." />
 </p>
 
-<p align="center">
-  <a href="https://react.dev" title="React"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="58" alt="React" /></a>
-  <a href="https://nextjs.org" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="58" alt="Next.js" /></a>
-  <a href="https://nodejs.org" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="58" alt="Node.js" /></a>
-  <a href="https://graphql.org" title="GraphQL"><img src="https://skillicons.dev/icons?i=graphql&theme=dark" width="58" alt="GraphQL" /></a>
-  <a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="58" alt="Python" /></a>
-  <a href="https://fastapi.tiangolo.com" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="58" alt="FastAPI" /></a>
-  <a href="https://flask.palletsprojects.com" title="Flask"><img src="https://skillicons.dev/icons?i=flask&theme=dark" width="58" alt="Flask" /></a>
-  <a href="https://supabase.com" title="Supabase"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="58" alt="Supabase" /></a>
-  <a href="https://www.mysql.com" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="58" alt="MySQL" /></a>
-  <a href="https://www.tensorflow.org" title="TensorFlow"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="58" alt="TensorFlow" /></a>
-  <a href="https://pytorch.org" title="PyTorch"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="58" alt="PyTorch" /></a>
-  <a href="https://opencv.org" title="OpenCV"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="58" alt="OpenCV" /></a>
-  <a href="https://www.selenium.dev" title="Selenium"><img src="https://skillicons.dev/icons?i=selenium&theme=dark" width="58" alt="Selenium" /></a>
-  <a href="https://aws.amazon.com" title="AWS"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="58" alt="AWS" /></a>
-  <a href="https://cloud.google.com" title="Google Cloud"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="58" alt="Google Cloud" /></a>
-  <a href="https://www.cloudflare.com" title="Cloudflare"><img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" width="58" alt="Cloudflare" /></a>
-  <a href="https://vercel.com" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="58" alt="Vercel" /></a>
-  <a href="https://www.docker.com" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="58" alt="Docker" /></a>
-  <a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="58" alt="Git" /></a>
-  <a href="https://github.com" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="58" alt="GitHub" /></a>
-  <a href="https://figma.com" title="Figma"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="58" alt="Figma" /></a>
-  <a href="https://notion.so" title="Notion"><img src="https://skillicons.dev/icons?i=notion&theme=dark" width="58" alt="Notion" /></a>
-</p>
-
 ## Ask Me About
 
 `Artificial Intelligence` `Machine Learning` `Prompt Engineering` `AI Automation`  
@@ -95,9 +70,9 @@
 
 ## Currently Learning
 
-`Agentic AI` `Large Language Models` `Google Gemini API` `OpenAI API`  
-`GraphQL` `n8n Automation` `Supabase` `Strapi CMS`  
-`Advanced Prompt Engineering` `AI Product Development` `Full Stack Development` `Workflow Automation`
+<p align="center">
+  <img src="./assets/currently-learning.svg" width="100%" alt="Currently learning: Agentic AI, Large Language Models, Google Gemini API, OpenAI API, GraphQL, n8n Automation, Supabase, Strapi CMS, Advanced Prompt Engineering, AI Product Development, Full Stack Development, and Workflow Automation." />
+</p>
 
 ## GitHub Analytics
 
