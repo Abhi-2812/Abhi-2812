@@ -49,7 +49,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="./assets/tech-stack-board.svg" width="100%" alt="Technology stack board with React, Next.js, JavaScript, Node.js, GraphQL, Python, Supabase, Strapi, OpenAI, Google Gemini, n8n, Docker, GitHub, AWS, and Figma." />
+  <img src="./assets/tech-stack-board.png" width="100%" alt="Technology stack board with React, Next.js, JavaScript, Node.js, Python, OpenAI, Gemini, Supabase, n8n, Docker, GitHub, AWS, and Figma." />
 </p>
 
 ## Ask Me About
