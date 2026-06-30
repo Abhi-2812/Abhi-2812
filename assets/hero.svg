@@ -43,10 +43,10 @@
     <rect x="88" y="54" width="1024" height="312" rx="28" fill="url(#panel)" stroke="url(#stroke)"/>
     <rect x="112" y="78" width="976" height="264" rx="22" stroke="#FFFFFF" stroke-opacity="0.06"/>
   </g>
-  <g transform="translate(140 92)">
-    <rect x="0" y="0" width="218" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.13"/>
-    <circle cx="24" cy="20" r="5" fill="#5EEBFF"/>
-    <text x="44" y="25" fill="#EDE9FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Available for collaboration</text>
+  <g transform="translate(472 88)">
+    <rect x="0" y="0" width="256" height="42" rx="21" fill="#FFFFFF" fill-opacity="0.10" stroke="#FFFFFF" stroke-opacity="0.16"/>
+    <circle cx="30" cy="21" r="5" fill="#5EEBFF"/>
+    <text x="144" y="26" text-anchor="middle" fill="#EDE9FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">Available for collaboration</text>
   </g>
   <text x="140" y="194" fill="url(#nameGradient)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="0">Abhishek Chaskar</text>
   <text x="143" y="236" fill="#C4B5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">AI Engineer / Full Stack Developer / Automation Builder</text>

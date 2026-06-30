@@ -1,0 +1,38 @@
+<svg width="1600" height="360" viewBox="0 0 1600 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Ask Me About</title>
+  <desc id="desc">Glass card grid showing topics Abhishek can discuss.</desc>
+  <defs>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(910 28) rotate(120) scale(760 330)">
+      <stop stop-color="#5EEBFF" stop-opacity=".20"/>
+      <stop offset=".52" stop-color="#8B5CF6" stop-opacity=".20"/>
+      <stop offset="1" stop-color="#020617" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF" stop-opacity=".10"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".035"/></linearGradient>
+    <linearGradient id="pill" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF" stop-opacity=".12"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".045"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000000" flood-opacity=".32"/></filter>
+    <style>.h{font-family:Inter,Segoe UI,Arial,sans-serif;font-weight:900}.t{font-family:Inter,Segoe UI,Arial,sans-serif;font-weight:800}</style>
+  </defs>
+  <rect width="1600" height="360" rx="34" fill="#020617"/>
+  <rect width="1600" height="360" rx="34" fill="url(#glow)"/>
+  <rect x="18" y="18" width="1564" height="324" rx="24" fill="url(#panel)" stroke="#8B5CF6"/>
+  <g transform="translate(58 54)">
+    <circle cx="32" cy="32" r="32" fill="#8B5CF6" fill-opacity=".28"/>
+    <text x="32" y="43" text-anchor="middle" fill="#FFFFFF" class="h" font-size="26">?</text>
+    <text x="86" y="44" fill="#FFFFFF" class="h" font-size="34">Ask Me About</text>
+    <path d="M86 72H250" stroke="#A855F7" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="250" cy="72" r="4" fill="#A855F7"/>
+  </g>
+  <g filter="url(#shadow)" class="t" font-size="21" fill="#FFFFFF">
+    <g transform="translate(60 134)"><rect width="292" height="70" rx="16" fill="url(#pill)" stroke="#5EEBFF" stroke-opacity=".20"/><circle cx="44" cy="35" r="23" fill="#38BDF8" fill-opacity=".16"/><text x="44" y="43" text-anchor="middle" fill="#38BDF8" font-size="22">AI</text><text x="82" y="43">Artificial Intelligence</text></g>
+    <g transform="translate(374 134)"><rect width="282" height="70" rx="16" fill="url(#pill)" stroke="#22C55E" stroke-opacity=".20"/><circle cx="44" cy="35" r="23" fill="#22C55E" fill-opacity=".16"/><text x="44" y="43" text-anchor="middle" fill="#86EFAC" font-size="20">ML</text><text x="82" y="43">Machine Learning</text></g>
+    <g transform="translate(678 134)"><rect width="304" height="70" rx="16" fill="url(#pill)" stroke="#A855F7" stroke-opacity=".22"/><circle cx="44" cy="35" r="23" fill="#8B5CF6" fill-opacity=".18"/><text x="44" y="43" text-anchor="middle" fill="#C084FC" font-size="18">PE</text><text x="82" y="43">Prompt Engineering</text></g>
+    <g transform="translate(1004 134)"><rect width="252" height="70" rx="16" fill="url(#pill)" stroke="#F59E0B" stroke-opacity=".22"/><circle cx="44" cy="35" r="23" fill="#F59E0B" fill-opacity=".16"/><text x="44" y="43" text-anchor="middle" fill="#FBBF24" font-size="18">n8n</text><text x="82" y="43">AI Automation</text></g>
+    <g transform="translate(1278 134)"><rect width="244" height="70" rx="16" fill="url(#pill)" stroke="#EC4899" stroke-opacity=".20"/><circle cx="44" cy="35" r="23" fill="#EC4899" fill-opacity=".16"/><text x="44" y="43" text-anchor="middle" fill="#F472B6" font-size="18">CV</text><text x="82" y="43">Computer Vision</text></g>
+    <g transform="translate(60 226)"><rect width="274" height="70" rx="16" fill="url(#pill)" stroke="#5EEBFF" stroke-opacity=".18"/><circle cx="44" cy="35" r="23" fill="#0EA5E9" fill-opacity=".16"/><text x="44" y="43" text-anchor="middle" fill="#5EEBFF" font-size="18">RN</text><text x="82" y="43">React and Node.js</text></g>
+    <g transform="translate(356 226)"><rect width="198" height="70" rx="16" fill="url(#pill)" stroke="#F59E0B" stroke-opacity=".20"/><circle cx="44" cy="35" r="23" fill="#F59E0B" fill-opacity=".16"/><text x="44" y="43" text-anchor="middle" fill="#FBBF24" font-size="18">Py</text><text x="82" y="43">Python</text></g>
+    <g transform="translate(576 226)"><rect width="210" height="70" rx="16" fill="url(#pill)" stroke="#EC4899" stroke-opacity=".20"/><circle cx="44" cy="35" r="23" fill="#EC4899" fill-opacity=".16"/><text x="44" y="43" text-anchor="middle" fill="#F472B6" font-size="18">GQL</text><text x="82" y="43">GraphQL</text></g>
+    <g transform="translate(808 226)"><rect width="228" height="70" rx="16" fill="url(#pill)" stroke="#22C55E" stroke-opacity=".20"/><circle cx="44" cy="35" r="23" fill="#22C55E" fill-opacity=".16"/><text x="44" y="43" text-anchor="middle" fill="#86EFAC" font-size="18">DB</text><text x="82" y="43">Supabase</text></g>
+    <g transform="translate(1058 226)"><rect width="214" height="70" rx="16" fill="url(#pill)" stroke="#FFFFFF" stroke-opacity=".13"/><circle cx="44" cy="35" r="23" fill="#FFFFFF" fill-opacity=".10"/><text x="44" y="43" text-anchor="middle" fill="#EDE9FE" font-size="18">API</text><text x="82" y="43">REST APIs</text></g>
+    <g transform="translate(1294 226)"><rect width="228" height="70" rx="16" fill="url(#pill)" stroke="#8B5CF6" stroke-opacity=".22"/><circle cx="44" cy="35" r="23" fill="#8B5CF6" fill-opacity=".18"/><text x="44" y="43" text-anchor="middle" fill="#C084FC" font-size="18">TS</text><text x="82" y="43">Tech Startups</text></g>
+  </g>
+</svg>

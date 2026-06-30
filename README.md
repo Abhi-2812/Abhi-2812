@@ -4,16 +4,27 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/abhishek-sushant-chaskar-63748b219" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="./logos/Socials/Linkedin.png" width="42" height="42" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:abhishek.chaskar.tkc@gmail.com" title="Email">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="./logos/Socials/Mail.png" width="42" height="42" alt="Email" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://medium.com/@abhishek.chaskar.tkc" title="Medium">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    <img src="./logos/Socials/Medium.png" width="42" height="42" alt="Medium" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://instagram.com/abhi_c_2004" title="Instagram">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="./logos/Socials/Instagram.png" width="42" height="42" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://pinterest.com/abhishekchaskartkc" title="Pinterest">
+    <img src="./logos/Socials/Pinterest.png" width="42" height="42" alt="Pinterest" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/32882847" title="Stack Overflow">
+    <img src="./logos/Socials/Stackoverflow.png" width="42" height="42" alt="Stack Overflow" />
   </a>
 </p>
 
@@ -43,9 +54,9 @@
 
 ## Ask Me About
 
-`Artificial Intelligence` `Machine Learning` `Prompt Engineering` `AI Automation`  
-`Computer Vision` `React and Node.js` `Python` `GraphQL`  
-`Supabase` `REST APIs` `Hackathons` `Tech Startups`
+<p align="center">
+  <img src="./assets/ask-me-about.svg" width="100%" alt="Ask me about: Artificial Intelligence, Machine Learning, Prompt Engineering, AI Automation, Computer Vision, React and Node.js, Python, GraphQL, Supabase, REST APIs, Hackathons, and Tech Startups." />
+</p>
 
 ## Projects Worth Highlighting
 
@@ -100,17 +111,6 @@
 
 <p align="center">
   <img src="./assets/fun-facts.svg" width="100%" alt="Fun facts about Abhishek Chaskar: building products, hackathons, workflow automation, and apparel manufacturing technology." />
-</p>
-
-## Find Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/abhishek-sushant-chaskar-63748b219" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:abhishek.chaskar.tkc@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://medium.com/@abhishek.chaskar.tkc" title="Medium"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://instagram.com/abhi_c_2004" title="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://pinterest.com/abhishekchaskartkc" title="Pinterest"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
-  <a href="https://stackoverflow.com/users/32882847" title="Stack Overflow"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
 </p>
 
 <p align="center">
