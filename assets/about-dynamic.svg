@@ -19,8 +19,6 @@
     <circle cx="32" cy="32" r="32" fill="#8B5CF6" fill-opacity=".28"/>
     <circle cx="32" cy="32" r="7" fill="#5EEBFF"/>
     <text x="86" y="44" fill="#FFFFFF" class="h" font-size="34">About Me</text>
-    <path d="M86 72H226" stroke="#A855F7" stroke-width="4" stroke-linecap="round"/>
-    <circle cx="226" cy="72" r="4" fill="#A855F7"/>
   </g>
   <text x="60" y="178" fill="#FFFFFF" class="h" font-size="42">Hey, I'm Abhishek Chaskar.</text>
   <text x="60" y="220" fill="#E5E7EB" class="b" font-size="24">I build premium AI products, automation workflows, and full stack systems that solve real business problems.</text>

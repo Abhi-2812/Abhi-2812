@@ -19,8 +19,6 @@
     <circle cx="32" cy="32" r="32" fill="#8B5CF6" fill-opacity=".28"/>
     <text x="32" y="43" text-anchor="middle" fill="#FFFFFF" class="h" font-size="26">?</text>
     <text x="86" y="44" fill="#FFFFFF" class="h" font-size="34">Ask Me About</text>
-    <path d="M86 72H292" stroke="#A855F7" stroke-width="4" stroke-linecap="round"/>
-    <circle cx="292" cy="72" r="4" fill="#A855F7"/>
   </g>
   <g filter="url(#shadow)" class="t" font-size="18" fill="#FFFFFF">
     <g transform="translate(60 134)"><rect width="292" height="70" rx="16" fill="url(#pill)" stroke="#5EEBFF" stroke-opacity=".20"/><circle cx="44" cy="35" r="23" fill="#38BDF8" fill-opacity=".16"/><text x="44" y="43" text-anchor="middle" fill="#38BDF8" font-size="22">AI</text><text x="88" y="43">Artificial Intelligence</text></g>
