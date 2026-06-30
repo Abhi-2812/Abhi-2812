@@ -49,7 +49,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="./assets/tech-stack-board.png" width="100%" alt="Technology stack board with React, Next.js, JavaScript, Node.js, Python, OpenAI, Gemini, Supabase, n8n, Docker, GitHub, AWS, and Figma." />
+  <img src="./assets/tech-stack-board.svg" width="100%" alt="Technology stack board with React, Next.js, JavaScript, Node.js, Python, OpenAI, Gemini, Supabase, n8n, Docker, GitHub, AWS, and Figma." />
 </p>
 
 ## Ask Me About
@@ -85,12 +85,24 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhi-2812&show_icons=true&hide_border=true&bg_color=08080D&title_color=C4B5FD&text_color=E9D5FF&icon_color=A855F7" height="180" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=Abhi-2812&theme=tokyonight&hide_border=true&background=08080D&ring=8B5CF6&fire=A855F7&currStreakLabel=5EEBFF" height="180" alt="GitHub streak stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Abhi-2812&amp;show_icons=true&amp;hide_border=true&amp;bg_color=08080D&amp;title_color=C4B5FD&amp;text_color=E9D5FF&amp;icon_color=A855F7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Abhi-2812&amp;show_icons=true&amp;hide_border=true&amp;bg_color=F8FAFC&amp;title_color=6D28D9&amp;text_color=334155&amp;icon_color=0891B2" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Abhi-2812&amp;show_icons=true&amp;hide_border=true&amp;bg_color=F8FAFC&amp;title_color=6D28D9&amp;text_color=334155&amp;icon_color=0891B2" height="180" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Abhi-2812&amp;hide_border=true&amp;background=08080D&amp;ring=8B5CF6&amp;fire=A855F7&amp;currStreakLabel=5EEBFF&amp;currStreakNum=E9D5FF&amp;sideNums=E9D5FF&amp;sideLabels=C4B5FD&amp;dates=A78BFA" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Abhi-2812&amp;hide_border=true&amp;background=F8FAFC&amp;ring=6D28D9&amp;fire=A855F7&amp;currStreakLabel=0891B2&amp;currStreakNum=111827&amp;sideNums=111827&amp;sideLabels=334155&amp;dates=64748B" />
+    <img src="https://streak-stats.demolab.com?user=Abhi-2812&amp;hide_border=true&amp;background=F8FAFC&amp;ring=6D28D9&amp;fire=A855F7&amp;currStreakLabel=0891B2&amp;currStreakNum=111827&amp;sideNums=111827&amp;sideLabels=334155&amp;dates=64748B" height="180" alt="GitHub streak stats" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-2812&layout=compact&hide_border=true&bg_color=08080D&title_color=C4B5FD&text_color=E9D5FF" height="180" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-2812&amp;layout=compact&amp;hide_border=true&amp;bg_color=08080D&amp;title_color=C4B5FD&amp;text_color=E9D5FF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-2812&amp;layout=compact&amp;hide_border=true&amp;bg_color=F8FAFC&amp;title_color=6D28D9&amp;text_color=334155" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-2812&amp;layout=compact&amp;hide_border=true&amp;bg_color=F8FAFC&amp;title_color=6D28D9&amp;text_color=334155" height="180" alt="Top languages" />
+  </picture>
 </p>
 
 <p align="center">
@@ -104,7 +116,11 @@
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=light" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=light" alt="Random developer quote" />
+  </picture>
 </p>
 
 ## Fun Fact

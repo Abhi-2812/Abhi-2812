@@ -2,6 +2,37 @@
   <title id="title">Profile focus card</title>
   <desc id="desc">A glass profile card listing Abhishek Chaskar's core focus areas.</desc>
   <defs>
+    <style>
+      :root {
+        color-scheme: light dark;
+        --surface: #F8FAFC;
+        --surface-soft: #FFFFFF;
+        --ink: #111827;
+        --ink-muted: #334155;
+        --ink-accent: #6D28D9;
+        --line: #CBD5E1;
+        --glass-fill: #FFFFFF;
+        --glass-opacity: .74;
+        --glass-soft-opacity: .58;
+        --glass-stroke: #CBD5E1;
+        --shadow: #94A3B8;
+      }
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --surface: #08080D;
+          --surface-soft: #12121B;
+          --ink: #FFFFFF;
+          --ink-muted: #E5E7EB;
+          --ink-accent: #C4B5FD;
+          --line: #FFFFFF;
+          --glass-fill: #FFFFFF;
+          --glass-opacity: .10;
+          --glass-soft-opacity: .045;
+          --glass-stroke: #FFFFFF;
+          --shadow: #000000;
+        }
+      }
+    </style>
     <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(108 36) rotate(42) scale(384 190)">
       <stop stop-color="#8B5CF6" stop-opacity="0.64"/>
       <stop offset="1" stop-color="#08080D" stop-opacity="0"/>
@@ -12,21 +43,21 @@
       <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.12"/>
     </linearGradient>
   </defs>
-  <rect width="520" height="320" rx="28" fill="#08080D"/>
+  <rect width="520" height="320" rx="28" fill="var(--surface)"/>
   <rect width="520" height="320" rx="28" fill="url(#glow)"/>
-  <rect x="26" y="26" width="468" height="268" rx="24" fill="#12121B" fill-opacity="0.76" stroke="url(#border)"/>
-  <text x="54" y="74" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="800">Product-minded AI engineering</text>
-  <text x="54" y="105" fill="#C4B5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="500">ztudium / agentic systems / automation</text>
+  <rect x="26" y="26" width="468" height="268" rx="24" fill="var(--surface-soft)" fill-opacity="0.76" stroke="url(#border)"/>
+  <text x="54" y="74" fill="var(--ink)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="800">Product-minded AI engineering</text>
+  <text x="54" y="105" fill="var(--ink-accent)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="500">ztudium / agentic systems / automation</text>
   <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">
-    <rect x="54" y="136" width="180" height="42" rx="14" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.12"/>
-    <text x="74" y="162" fill="#EDE9FE">Agentic AI Apps</text>
-    <rect x="246" y="136" width="220" height="42" rx="14" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.12"/>
-    <text x="266" y="162" fill="#EDE9FE">AI Automation Workflows</text>
-    <rect x="54" y="190" width="180" height="42" rx="14" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.12"/>
-    <text x="74" y="216" fill="#EDE9FE">RAG Systems</text>
-    <rect x="246" y="190" width="220" height="42" rx="14" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.12"/>
-    <text x="266" y="216" fill="#EDE9FE">Full Stack SaaS</text>
+    <rect x="54" y="136" width="180" height="42" rx="14" fill="var(--surface-soft)" fill-opacity="0.08" stroke="var(--glass-stroke)" stroke-opacity="0.12"/>
+    <text x="74" y="162" fill="var(--ink-accent)">Agentic AI Apps</text>
+    <rect x="246" y="136" width="220" height="42" rx="14" fill="var(--surface-soft)" fill-opacity="0.08" stroke="var(--glass-stroke)" stroke-opacity="0.12"/>
+    <text x="266" y="162" fill="var(--ink-accent)">AI Automation Workflows</text>
+    <rect x="54" y="190" width="180" height="42" rx="14" fill="var(--surface-soft)" fill-opacity="0.08" stroke="var(--glass-stroke)" stroke-opacity="0.12"/>
+    <text x="74" y="216" fill="var(--ink-accent)">RAG Systems</text>
+    <rect x="246" y="190" width="220" height="42" rx="14" fill="var(--surface-soft)" fill-opacity="0.08" stroke="var(--glass-stroke)" stroke-opacity="0.12"/>
+    <text x="266" y="216" fill="var(--ink-accent)">Full Stack SaaS</text>
   </g>
-  <path d="M54 260H466" stroke="#FFFFFF" stroke-opacity="0.11"/>
+  <path d="M54 260H466" stroke="var(--glass-stroke)" stroke-opacity="0.11"/>
   <text x="54" y="276" fill="#5EEBFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Building with purpose. Shipping with speed. Learning every day.</text>
 </svg>

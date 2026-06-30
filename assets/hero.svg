@@ -2,6 +2,37 @@
   <title id="title">Abhishek Chaskar - AI Engineer and Full Stack Developer</title>
   <desc id="desc">Dark premium profile hero with purple and cyan aurora gradients.</desc>
   <defs>
+    <style>
+      :root {
+        color-scheme: light dark;
+        --surface: #F8FAFC;
+        --surface-soft: #FFFFFF;
+        --ink: #111827;
+        --ink-muted: #334155;
+        --ink-accent: #6D28D9;
+        --line: #CBD5E1;
+        --glass-fill: #FFFFFF;
+        --glass-opacity: .74;
+        --glass-soft-opacity: .58;
+        --glass-stroke: #CBD5E1;
+        --shadow: #94A3B8;
+      }
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --surface: #08080D;
+          --surface-soft: #12121B;
+          --ink: #FFFFFF;
+          --ink-muted: #E5E7EB;
+          --ink-accent: #C4B5FD;
+          --line: #FFFFFF;
+          --glass-fill: #FFFFFF;
+          --glass-opacity: .10;
+          --glass-soft-opacity: .045;
+          --glass-stroke: #FFFFFF;
+          --shadow: #000000;
+        }
+      }
+    </style>
     <radialGradient id="purpleGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(280 84) rotate(37) scale(620 310)">
       <stop stop-color="#8B5CF6" stop-opacity="0.72"/>
       <stop offset="0.46" stop-color="#A855F7" stop-opacity="0.22"/>
@@ -28,46 +59,46 @@
       <stop offset="1" stop-color="#5EEBFF"/>
     </linearGradient>
     <filter id="softShadow" x="62" y="26" width="1076" height="368" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-      <feDropShadow dx="0" dy="28" stdDeviation="34" flood-color="#000000" flood-opacity="0.42"/>
+      <feDropShadow dx="0" dy="28" stdDeviation="34" flood-color="var(--shadow)" flood-opacity="0.42"/>
     </filter>
   </defs>
-  <rect width="1200" height="420" rx="34" fill="#08080D"/>
+  <rect width="1200" height="420" rx="34" fill="var(--surface)"/>
   <rect width="1200" height="420" rx="34" fill="url(#purpleGlow)"/>
   <rect width="1200" height="420" rx="34" fill="url(#cyanGlow)"/>
   <g opacity="0.28">
     <path d="M116 312C268 238 374 353 526 278C678 203 790 91 1094 126" stroke="#8B5CF6" stroke-opacity="0.42" stroke-width="1.2"/>
     <path d="M118 338C326 235 458 374 626 260C794 146 896 99 1088 170" stroke="#5EEBFF" stroke-opacity="0.25" stroke-width="1.2"/>
-    <path d="M158 82C304 140 378 84 518 128C690 182 760 294 1044 246" stroke="#FFFFFF" stroke-opacity="0.11" stroke-width="1"/>
+    <path d="M158 82C304 140 378 84 518 128C690 182 760 294 1044 246" stroke="var(--glass-stroke)" stroke-opacity="0.11" stroke-width="1"/>
   </g>
   <g filter="url(#softShadow)">
     <rect x="88" y="54" width="1024" height="312" rx="28" fill="url(#panel)" stroke="url(#stroke)"/>
-    <rect x="112" y="78" width="976" height="264" rx="22" stroke="#FFFFFF" stroke-opacity="0.06"/>
+    <rect x="112" y="78" width="976" height="264" rx="22" stroke="var(--glass-stroke)" stroke-opacity="0.06"/>
   </g>
   <g transform="translate(472 88)">
-    <rect x="0" y="0" width="256" height="42" rx="21" fill="#FFFFFF" fill-opacity="0.10" stroke="#FFFFFF" stroke-opacity="0.16"/>
+    <rect x="0" y="0" width="256" height="42" rx="21" fill="var(--surface-soft)" fill-opacity="var(--glass-opacity)" stroke="var(--glass-stroke)" stroke-opacity="0.16"/>
     <circle cx="30" cy="21" r="5" fill="#5EEBFF"/>
-    <text x="144" y="26" text-anchor="middle" fill="#EDE9FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">Available for collaboration</text>
+    <text x="144" y="26" text-anchor="middle" fill="var(--ink-accent)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">Available for collaboration</text>
   </g>
   <text x="140" y="194" fill="url(#nameGradient)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="0">Abhishek Chaskar</text>
-  <text x="143" y="236" fill="#C4B5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">AI Engineer / Full Stack Developer / Automation Builder</text>
-  <text x="143" y="276" fill="#E5E7EB" fill-opacity="0.88" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="400">Building agentic AI applications, workflow automation, and production-ready SaaS experiences.</text>
+  <text x="143" y="236" fill="var(--ink-accent)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">AI Engineer / Full Stack Developer / Automation Builder</text>
+  <text x="143" y="276" fill="var(--ink-muted)" fill-opacity="0.88" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="400">Building agentic AI applications, workflow automation, and production-ready SaaS experiences.</text>
   <g transform="translate(140 306)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="800">
     <rect x="0" y="0" width="112" height="34" rx="17" fill="#8B5CF6" fill-opacity="0.20" stroke="#A855F7" stroke-opacity="0.38"/>
     <text x="56" y="22" text-anchor="middle" fill="#F5F3FF">OpenAI</text>
     <rect x="124" y="0" width="118" height="34" rx="17" fill="#5EEBFF" fill-opacity="0.12" stroke="#5EEBFF" stroke-opacity="0.34"/>
     <text x="183" y="22" text-anchor="middle" fill="#ECFEFF">Gemini</text>
-    <rect x="254" y="0" width="88" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.12"/>
-    <text x="298" y="22" text-anchor="middle" fill="#EDE9FE">n8n</text>
-    <rect x="354" y="0" width="96" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.12"/>
-    <text x="402" y="22" text-anchor="middle" fill="#EDE9FE">React</text>
-    <rect x="462" y="0" width="112" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.12"/>
-    <text x="518" y="22" text-anchor="middle" fill="#EDE9FE">Node.js</text>
-    <rect x="586" y="0" width="122" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.12"/>
-    <text x="647" y="22" text-anchor="middle" fill="#EDE9FE">GraphQL</text>
+    <rect x="254" y="0" width="88" height="34" rx="17" fill="var(--surface-soft)" fill-opacity="var(--glass-soft-opacity)" stroke="var(--glass-stroke)" stroke-opacity="0.12"/>
+    <text x="298" y="22" text-anchor="middle" fill="var(--ink-accent)">n8n</text>
+    <rect x="354" y="0" width="96" height="34" rx="17" fill="var(--surface-soft)" fill-opacity="var(--glass-soft-opacity)" stroke="var(--glass-stroke)" stroke-opacity="0.12"/>
+    <text x="402" y="22" text-anchor="middle" fill="var(--ink-accent)">React</text>
+    <rect x="462" y="0" width="112" height="34" rx="17" fill="var(--surface-soft)" fill-opacity="var(--glass-soft-opacity)" stroke="var(--glass-stroke)" stroke-opacity="0.12"/>
+    <text x="518" y="22" text-anchor="middle" fill="var(--ink-accent)">Node.js</text>
+    <rect x="586" y="0" width="122" height="34" rx="17" fill="var(--surface-soft)" fill-opacity="var(--glass-soft-opacity)" stroke="var(--glass-stroke)" stroke-opacity="0.12"/>
+    <text x="647" y="22" text-anchor="middle" fill="var(--ink-accent)">GraphQL</text>
   </g>
   <g transform="translate(910 102)">
-    <rect x="0" y="0" width="146" height="146" rx="34" fill="#12121B" fill-opacity="0.7" stroke="#FFFFFF" stroke-opacity="0.13"/>
-    <text x="73" y="88" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="800">AC</text>
+    <rect x="0" y="0" width="146" height="146" rx="34" fill="var(--surface-soft)" fill-opacity="0.7" stroke="var(--glass-stroke)" stroke-opacity="0.13"/>
+    <text x="73" y="88" text-anchor="middle" fill="var(--ink)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="800">AC</text>
     <circle cx="26" cy="26" r="6" fill="#5EEBFF"/>
     <circle cx="120" cy="120" r="8" fill="#A855F7"/>
   </g>

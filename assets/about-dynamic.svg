@@ -2,6 +2,37 @@
   <title id="title">About Abhishek Chaskar</title>
   <desc id="desc">Glass card about section for Abhishek Chaskar.</desc>
   <defs>
+    <style>
+      :root {
+        color-scheme: light dark;
+        --surface: #F8FAFC;
+        --surface-soft: #FFFFFF;
+        --ink: #111827;
+        --ink-muted: #334155;
+        --ink-accent: #6D28D9;
+        --line: #CBD5E1;
+        --glass-fill: #FFFFFF;
+        --glass-opacity: .74;
+        --glass-soft-opacity: .58;
+        --glass-stroke: #CBD5E1;
+        --shadow: #94A3B8;
+      }
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --surface: #08080D;
+          --surface-soft: #12121B;
+          --ink: #FFFFFF;
+          --ink-muted: #E5E7EB;
+          --ink-accent: #C4B5FD;
+          --line: #FFFFFF;
+          --glass-fill: #FFFFFF;
+          --glass-opacity: .10;
+          --glass-soft-opacity: .045;
+          --glass-stroke: #FFFFFF;
+          --shadow: #000000;
+        }
+      }
+    </style>
     <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(900 24) rotate(120) scale(760 330)">
       <stop stop-color="#5EEBFF" stop-opacity=".20"/>
       <stop offset=".52" stop-color="#8B5CF6" stop-opacity=".20"/>
@@ -9,21 +40,21 @@
     </radialGradient>
     <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF" stop-opacity=".10"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".035"/></linearGradient>
     <linearGradient id="pill" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF" stop-opacity=".12"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".045"/></linearGradient>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000000" flood-opacity=".32"/></filter>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="var(--shadow)" flood-opacity=".32"/></filter>
     <style>.h{font-family:Inter,Segoe UI,Arial,sans-serif;font-weight:900}.t{font-family:Inter,Segoe UI,Arial,sans-serif;font-weight:800}.b{font-family:Inter,Segoe UI,Arial,sans-serif;font-weight:600}</style>
   </defs>
-  <rect width="1600" height="430" rx="34" fill="#020617"/>
+  <rect width="1600" height="430" rx="34" fill="var(--surface)"/>
   <rect width="1600" height="430" rx="34" fill="url(#glow)"/>
   <rect x="18" y="18" width="1564" height="394" rx="24" fill="url(#panel)" stroke="#8B5CF6"/>
   <g transform="translate(58 58)">
     <circle cx="32" cy="32" r="32" fill="#8B5CF6" fill-opacity=".28"/>
     <circle cx="32" cy="32" r="7" fill="#5EEBFF"/>
-    <text x="86" y="44" fill="#FFFFFF" class="h" font-size="34">About Me</text>
+    <text x="86" y="44" fill="var(--ink)" class="h" font-size="34">About Me</text>
   </g>
-  <text x="60" y="178" fill="#FFFFFF" class="h" font-size="42">Hey, I'm Abhishek Chaskar.</text>
-  <text x="60" y="220" fill="#E5E7EB" class="b" font-size="24">I build premium AI products, automation workflows, and full stack systems that solve real business problems.</text>
-  <text x="60" y="260" fill="#C4B5FD" class="b" font-size="22">Currently building production-ready AI systems and AI-powered automation workflows at ztudium.</text>
-  <g filter="url(#shadow)" class="t" font-size="19" fill="#FFFFFF">
+  <text x="60" y="178" fill="var(--ink)" class="h" font-size="42">Hey, I'm Abhishek Chaskar.</text>
+  <text x="60" y="220" fill="var(--ink-muted)" class="b" font-size="24">I build premium AI products, automation workflows, and full stack systems that solve real business problems.</text>
+  <text x="60" y="260" fill="var(--ink-accent)" class="b" font-size="22">Currently building production-ready AI systems and AI-powered automation workflows at ztudium.</text>
+  <g filter="url(#shadow)" class="t" font-size="19" fill="var(--ink)">
     <g transform="translate(60 306)"><rect width="248" height="68" rx="15" fill="url(#pill)" stroke="#5EEBFF" stroke-opacity=".18"/><circle cx="42" cy="34" r="22" fill="#38BDF8" fill-opacity=".16"/><text x="42" y="42" text-anchor="middle" fill="#38BDF8" font-size="22">AI</text><text x="78" y="42">AI Systems</text></g>
     <g transform="translate(330 306)"><rect width="300" height="68" rx="15" fill="url(#pill)" stroke="#A855F7" stroke-opacity=".20"/><circle cx="42" cy="34" r="22" fill="#8B5CF6" fill-opacity=".18"/><text x="42" y="42" text-anchor="middle" fill="#C084FC" font-size="18">n8n</text><text x="78" y="42">Automation</text></g>
     <g transform="translate(652 306)"><rect width="256" height="68" rx="15" fill="url(#pill)" stroke="#22C55E" stroke-opacity=".20"/><circle cx="42" cy="34" r="22" fill="#22C55E" fill-opacity=".16"/><text x="42" y="42" text-anchor="middle" fill="#86EFAC" font-size="18">API</text><text x="78" y="42">Backend APIs</text></g>
