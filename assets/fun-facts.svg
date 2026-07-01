@@ -1,21 +1,21 @@
-<svg width="1600" height="550" viewBox="0 0 1600 550" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+﻿<svg width="1600" height="550" viewBox="0 0 1600 550" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Fun Facts</title>
   <desc id="desc">A modern avatar fun facts panel for Abhishek Chaskar.</desc>
   <defs>
     <style>
       :root {
         color-scheme: light dark;
-        --surface: #F8FAFC;
-        --surface-soft: #FFFFFF;
-        --ink: #111827;
+        --surface: #F4F7FB;
+        --surface-soft: #EEF2FF;
+        --ink: #0F172A;
         --ink-muted: #334155;
-        --ink-accent: #6D28D9;
-        --line: #CBD5E1;
+        --ink-accent: #5B21B6;
+        --line: #A78BFA;
         --glass-fill: #FFFFFF;
-        --glass-opacity: .74;
-        --glass-soft-opacity: .58;
-        --glass-stroke: #CBD5E1;
-        --shadow: #94A3B8;
+        --glass-opacity: .86;
+        --glass-soft-opacity: .72;
+        --glass-stroke: #A78BFA;
+        --shadow: #CBD5E1;
       }
       @media (prefers-color-scheme: dark) {
         :root {
@@ -64,39 +64,40 @@
   </g>
   <g transform="translate(620 76)">
     <circle cx="0" cy="0" r="25" fill="#8B5CF6" filter="url(#soft)"/>
-    <text x="0" y="8" text-anchor="middle" fill="var(--ink)" class="h" font-size="26">âœ¦</text>
+    <text x="0" y="8" text-anchor="middle" fill="var(--ink)" class="h" font-size="26">Ã¢Å“Â¦</text>
     <text x="50" y="10" fill="var(--ink)" class="h" font-size="34">FUN FACTS</text>
     <path d="M50 28H184" stroke="#8B5CF6" stroke-width="4"/>
   </g>
   <g class="t" font-size="19" fill="var(--ink)">
     <g transform="translate(615 145)" filter="url(#soft)">
       <rect width="865" height="76" rx="38" fill="#FFF7D6" stroke="#FBBF24"/>
-      <circle cx="42" cy="38" r="23" fill="#FBBF24"/><text x="42" y="47" text-anchor="middle" font-size="27">â—‰</text>
+      <circle cx="42" cy="38" r="23" fill="#FBBF24"/><text x="42" y="47" text-anchor="middle" font-size="27">Ã¢â€”â€°</text>
       <path d="M90 20V56" stroke="#111827" stroke-opacity=".24"/>
       <text x="126" y="46">I enjoy turning ideas into real products, not just demos.</text>
     </g>
     <g transform="translate(615 242)" filter="url(#soft)">
       <rect width="865" height="76" rx="38" fill="#FFE4E6" stroke="#FDA4AF"/>
-      <circle cx="42" cy="38" r="23" fill="#F43F5E" fill-opacity=".75"/><text x="42" y="47" text-anchor="middle" fill="var(--ink)" font-size="25">â™Ÿ</text>
+      <circle cx="42" cy="38" r="23" fill="#F43F5E" fill-opacity=".75"/><text x="42" y="47" text-anchor="middle" fill="var(--ink)" font-size="25">Ã¢â„¢Å¸</text>
       <path d="M90 20V56" stroke="#111827" stroke-opacity=".24"/>
       <text x="126" y="46">I like leading hackathon teams and shipping under pressure.</text>
     </g>
     <g transform="translate(615 339)" filter="url(#soft)">
       <rect width="865" height="76" rx="38" fill="#E0F2FE" stroke="#7DD3FC"/>
-      <circle cx="42" cy="38" r="23" fill="#38BDF8"/><text x="42" y="47" text-anchor="middle" fill="var(--ink)" font-size="25">âš¡</text>
+      <circle cx="42" cy="38" r="23" fill="#38BDF8"/><text x="42" y="47" text-anchor="middle" fill="var(--ink)" font-size="25">Ã¢Å¡Â¡</text>
       <path d="M90 20V56" stroke="#111827" stroke-opacity=".24"/>
       <text x="126" y="46">I automate workflows with AI, n8n, OpenAI, and Gemini.</text>
     </g>
     <g transform="translate(615 436)" filter="url(#soft)">
       <rect width="865" height="76" rx="38" fill="#F3E8FF" stroke="#C4B5FD"/>
-      <circle cx="42" cy="38" r="23" fill="#8B5CF6"/><text x="42" y="47" text-anchor="middle" fill="var(--ink)" font-size="25">â†—</text>
+      <circle cx="42" cy="38" r="23" fill="#8B5CF6"/><text x="42" y="47" text-anchor="middle" fill="var(--ink)" font-size="25">Ã¢â€ â€”</text>
       <path d="M90 20V56" stroke="#111827" stroke-opacity=".24"/>
       <text x="126" y="46">I help grow my family's apparel manufacturing business with tech.</text>
     </g>
   </g>
-  <text x="158" y="114" fill="#FCA5A5" class="h" font-size="28">âœ§</text>
-  <text x="448" y="136" fill="#FBBF24" class="h" font-size="28">âœ¦</text>
+  <text x="158" y="114" fill="#FCA5A5" class="h" font-size="28">Ã¢Å“Â§</text>
+  <text x="448" y="136" fill="#FBBF24" class="h" font-size="28">Ã¢Å“Â¦</text>
   <circle cx="118" cy="360" r="7" fill="#A5B4FC"/>
   <path d="M108 250l10-18 10 18h-20Z" stroke="#FCA5A5" stroke-width="4"/>
   <circle cx="476" cy="318" r="7" fill="#67E8F9"/>
 </svg>
+

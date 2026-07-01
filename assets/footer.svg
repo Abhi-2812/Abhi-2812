@@ -1,21 +1,21 @@
-<svg width="1200" height="180" viewBox="0 0 1200 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+﻿<svg width="1200" height="180" viewBox="0 0 1200 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Footer statement</title>
   <desc id="desc">A dark purple profile footer with a concise closing statement.</desc>
   <defs>
     <style>
       :root {
         color-scheme: light dark;
-        --surface: #F8FAFC;
-        --surface-soft: #FFFFFF;
-        --ink: #111827;
+        --surface: #F4F7FB;
+        --surface-soft: #EEF2FF;
+        --ink: #0F172A;
         --ink-muted: #334155;
-        --ink-accent: #6D28D9;
-        --line: #CBD5E1;
+        --ink-accent: #5B21B6;
+        --line: #A78BFA;
         --glass-fill: #FFFFFF;
-        --glass-opacity: .74;
-        --glass-soft-opacity: .58;
-        --glass-stroke: #CBD5E1;
-        --shadow: #94A3B8;
+        --glass-opacity: .86;
+        --glass-soft-opacity: .72;
+        --glass-stroke: #A78BFA;
+        --shadow: #CBD5E1;
       }
       @media (prefers-color-scheme: dark) {
         :root {
@@ -36,7 +36,7 @@
     <radialGradient id="footerGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(610 0) rotate(90) scale(224 660)">
       <stop stop-color="#8B5CF6" stop-opacity="0.58"/>
       <stop offset="0.56" stop-color="#5EEBFF" stop-opacity="0.16"/>
-      <stop offset="1" stop-color="#08080D" stop-opacity="0"/>
+      <stop offset="1" stop-color="var(--surface)" stop-opacity="0"/>
     </radialGradient>
   </defs>
   <rect width="1200" height="180" rx="28" fill="var(--surface)"/>
@@ -45,3 +45,4 @@
   <text x="600" y="87" text-anchor="middle" fill="var(--ink)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">Building with purpose. Shipping with speed.</text>
   <text x="600" y="119" text-anchor="middle" fill="var(--ink-accent)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">AI products, automation workflows, and full stack systems for real-world impact.</text>
 </svg>
+

@@ -1,21 +1,21 @@
-<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+﻿<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Activity panel</title>
   <desc id="desc">A local activity panel used when external contribution snake assets are unavailable.</desc>
   <defs>
     <style>
       :root {
         color-scheme: light dark;
-        --surface: #F8FAFC;
-        --surface-soft: #FFFFFF;
-        --ink: #111827;
+        --surface: #F4F7FB;
+        --surface-soft: #EEF2FF;
+        --ink: #0F172A;
         --ink-muted: #334155;
-        --ink-accent: #6D28D9;
-        --line: #CBD5E1;
+        --ink-accent: #5B21B6;
+        --line: #A78BFA;
         --glass-fill: #FFFFFF;
-        --glass-opacity: .74;
-        --glass-soft-opacity: .58;
-        --glass-stroke: #CBD5E1;
-        --shadow: #94A3B8;
+        --glass-opacity: .86;
+        --glass-soft-opacity: .72;
+        --glass-stroke: #A78BFA;
+        --shadow: #CBD5E1;
       }
       @media (prefers-color-scheme: dark) {
         :root {
@@ -34,7 +34,7 @@
       }
     </style>
     <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 0) rotate(90) scale(260 680)">
-      <stop stop-color="#8B5CF6" stop-opacity=".38"/><stop offset="1" stop-color="#08080D" stop-opacity="0"/>
+      <stop stop-color="#8B5CF6" stop-opacity=".38"/><stop offset="1" stop-color="var(--surface)" stop-opacity="0"/>
     </radialGradient>
   </defs>
   <rect width="1200" height="260" rx="32" fill="var(--surface)"/>
@@ -43,3 +43,4 @@
   <text x="600" y="108" text-anchor="middle" fill="var(--ink)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="850">GitHub activity is live on my profile</text>
   <text x="600" y="146" text-anchor="middle" fill="var(--ink-accent)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="650">The contribution snake image is currently unavailable from the output branch, so this panel keeps the layout clean.</text>
 </svg>
+

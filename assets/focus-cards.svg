@@ -1,21 +1,21 @@
-<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+﻿<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Focus area cards</title>
   <desc id="desc">Four premium focus cards: Agentic AI, RAG, AI Product Development, and Workflow Automation.</desc>
   <defs>
     <style>
       :root {
         color-scheme: light dark;
-        --surface: #F8FAFC;
-        --surface-soft: #FFFFFF;
-        --ink: #111827;
+        --surface: #F4F7FB;
+        --surface-soft: #EEF2FF;
+        --ink: #0F172A;
         --ink-muted: #334155;
-        --ink-accent: #6D28D9;
-        --line: #CBD5E1;
+        --ink-accent: #5B21B6;
+        --line: #A78BFA;
         --glass-fill: #FFFFFF;
-        --glass-opacity: .74;
-        --glass-soft-opacity: .58;
-        --glass-stroke: #CBD5E1;
-        --shadow: #94A3B8;
+        --glass-opacity: .86;
+        --glass-soft-opacity: .72;
+        --glass-stroke: #A78BFA;
+        --shadow: #CBD5E1;
       }
       @media (prefers-color-scheme: dark) {
         :root {
@@ -35,7 +35,7 @@
     </style>
     <radialGradient id="bg" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(540 0) rotate(90) scale(390 720)">
       <stop stop-color="#8B5CF6" stop-opacity="0.26"/>
-      <stop offset="1" stop-color="#08080D" stop-opacity="0"/>
+      <stop offset="1" stop-color="var(--surface)" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="card" x1="74" y1="64" x2="530" y2="292" gradientUnits="userSpaceOnUse">
       <stop stop-color="#FFFFFF" stop-opacity="0.13"/>
@@ -75,3 +75,4 @@
     </g>
   </g>
 </svg>
+

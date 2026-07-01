@@ -4,27 +4,27 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/abhishek-sushant-chaskar-63748b219" title="LinkedIn">
-    <img src="./logos/Socials/Linkedin.png" width="42" height="42" alt="LinkedIn" />
+    <img src="./assets/links/linkedin.svg" width="42" height="42" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:abhishek.chaskar.tkc@gmail.com" title="Email">
-    <img src="./logos/Socials/Mail.png" width="42" height="42" alt="Email" />
+    <img src="./assets/links/mail.svg" width="42" height="42" alt="Email" />
   </a>
   &nbsp;&nbsp;
   <a href="https://medium.com/@abhishek.chaskar.tkc" title="Medium">
-    <img src="./logos/Socials/Medium.png" width="42" height="42" alt="Medium" />
+    <img src="./assets/links/medium.svg" width="42" height="42" alt="Medium" />
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/abhi_c_2004" title="Instagram">
-    <img src="./logos/Socials/Instagram.png" width="42" height="42" alt="Instagram" />
+    <img src="./assets/links/instagram.svg" width="42" height="42" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
   <a href="https://pinterest.com/abhishekchaskartkc" title="Pinterest">
-    <img src="./logos/Socials/Pinterest.png" width="42" height="42" alt="Pinterest" />
+    <img src="./assets/links/pinterest.svg" width="42" height="42" alt="Pinterest" />
   </a>
   &nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/32882847" title="Stack Overflow">
-    <img src="./logos/Socials/Stackoverflow.png" width="42" height="42" alt="Stack Overflow" />
+    <img src="./assets/links/stackoverflow.svg" width="42" height="42" alt="Stack Overflow" />
   </a>
 </p>
 
@@ -86,9 +86,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Abhi-2812&amp;show_icons=true&amp;hide_border=true&amp;bg_color=08080D&amp;title_color=C4B5FD&amp;text_color=E9D5FF&amp;icon_color=A855F7" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Abhi-2812&amp;show_icons=true&amp;hide_border=true&amp;bg_color=F8FAFC&amp;title_color=6D28D9&amp;text_color=334155&amp;icon_color=0891B2" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Abhi-2812&amp;show_icons=true&amp;hide_border=true&amp;bg_color=F8FAFC&amp;title_color=6D28D9&amp;text_color=334155&amp;icon_color=0891B2" height="180" alt="GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhi-2812&amp;theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhi-2812&amp;theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhi-2812&amp;theme=github" height="180" alt="GitHub stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Abhi-2812&amp;hide_border=true&amp;background=08080D&amp;ring=8B5CF6&amp;fire=A855F7&amp;currStreakLabel=5EEBFF&amp;currStreakNum=E9D5FF&amp;sideNums=E9D5FF&amp;sideLabels=C4B5FD&amp;dates=A78BFA" />
@@ -121,12 +121,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=light" />
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=light" alt="Random developer quote" />
   </picture>
-</p>
-
-## Fun Fact
-
-<p align="center">
-  <img src="./assets/fun-facts.svg" width="100%" alt="Fun facts about Abhishek Chaskar: building products, hackathons, workflow automation, and apparel manufacturing technology." />
 </p>
 
 <p align="center">

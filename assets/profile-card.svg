@@ -1,21 +1,21 @@
-<svg width="520" height="320" viewBox="0 0 520 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+﻿<svg width="520" height="320" viewBox="0 0 520 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Profile focus card</title>
   <desc id="desc">A glass profile card listing Abhishek Chaskar's core focus areas.</desc>
   <defs>
     <style>
       :root {
         color-scheme: light dark;
-        --surface: #F8FAFC;
-        --surface-soft: #FFFFFF;
-        --ink: #111827;
+        --surface: #F4F7FB;
+        --surface-soft: #EEF2FF;
+        --ink: #0F172A;
         --ink-muted: #334155;
-        --ink-accent: #6D28D9;
-        --line: #CBD5E1;
+        --ink-accent: #5B21B6;
+        --line: #A78BFA;
         --glass-fill: #FFFFFF;
-        --glass-opacity: .74;
-        --glass-soft-opacity: .58;
-        --glass-stroke: #CBD5E1;
-        --shadow: #94A3B8;
+        --glass-opacity: .86;
+        --glass-soft-opacity: .72;
+        --glass-stroke: #A78BFA;
+        --shadow: #CBD5E1;
       }
       @media (prefers-color-scheme: dark) {
         :root {
@@ -35,7 +35,7 @@
     </style>
     <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(108 36) rotate(42) scale(384 190)">
       <stop stop-color="#8B5CF6" stop-opacity="0.64"/>
-      <stop offset="1" stop-color="#08080D" stop-opacity="0"/>
+      <stop offset="1" stop-color="var(--surface)" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="border" x1="28" y1="28" x2="492" y2="292" gradientUnits="userSpaceOnUse">
       <stop stop-color="#5EEBFF" stop-opacity="0.45"/>
@@ -61,3 +61,4 @@
   <path d="M54 260H466" stroke="var(--glass-stroke)" stroke-opacity="0.11"/>
   <text x="54" y="276" fill="#5EEBFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Building with purpose. Shipping with speed. Learning every day.</text>
 </svg>
+

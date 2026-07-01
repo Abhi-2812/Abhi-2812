@@ -1,21 +1,21 @@
-<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+﻿<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Abhishek Chaskar - AI Engineer and Full Stack Developer</title>
   <desc id="desc">Dark premium profile hero with purple and cyan aurora gradients.</desc>
   <defs>
     <style>
       :root {
         color-scheme: light dark;
-        --surface: #F8FAFC;
-        --surface-soft: #FFFFFF;
-        --ink: #111827;
+        --surface: #F4F7FB;
+        --surface-soft: #EEF2FF;
+        --ink: #0F172A;
         --ink-muted: #334155;
-        --ink-accent: #6D28D9;
-        --line: #CBD5E1;
+        --ink-accent: #5B21B6;
+        --line: #A78BFA;
         --glass-fill: #FFFFFF;
-        --glass-opacity: .74;
-        --glass-soft-opacity: .58;
-        --glass-stroke: #CBD5E1;
-        --shadow: #94A3B8;
+        --glass-opacity: .86;
+        --glass-soft-opacity: .72;
+        --glass-stroke: #A78BFA;
+        --shadow: #CBD5E1;
       }
       @media (prefers-color-scheme: dark) {
         :root {
@@ -36,12 +36,12 @@
     <radialGradient id="purpleGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(280 84) rotate(37) scale(620 310)">
       <stop stop-color="#8B5CF6" stop-opacity="0.72"/>
       <stop offset="0.46" stop-color="#A855F7" stop-opacity="0.22"/>
-      <stop offset="1" stop-color="#08080D" stop-opacity="0"/>
+      <stop offset="1" stop-color="var(--surface)" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="cyanGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(942 92) rotate(139) scale(520 250)">
       <stop stop-color="#5EEBFF" stop-opacity="0.48"/>
       <stop offset="0.55" stop-color="#8B5CF6" stop-opacity="0.14"/>
-      <stop offset="1" stop-color="#08080D" stop-opacity="0"/>
+      <stop offset="1" stop-color="var(--surface)" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="panel" x1="88" y1="54" x2="1112" y2="366" gradientUnits="userSpaceOnUse">
       <stop stop-color="#FFFFFF" stop-opacity="0.13"/>
@@ -103,3 +103,4 @@
     <circle cx="120" cy="120" r="8" fill="#A855F7"/>
   </g>
 </svg>
+
