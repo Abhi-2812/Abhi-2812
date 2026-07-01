@@ -43,13 +43,13 @@
       <stop stop-color="#8B5CF6" stop-opacity="0.72"/>
       <stop offset="0.46" stop-color="#A855F7" stop-opacity="0.22"/>
       <stop offset="1" stop-color="var(--surface)" stop-opacity="0"/>
-      <animateTransform attributeName="gradientTransform" type="translate" additive="sum" values="0 0; 70 22; -38 34; 0 0" dur="14s" repeatCount="indefinite"/>
+      <animateTransform attributeName="gradientTransform" type="translate" additive="sum" values="0 0; 72 20; -36 30; 0 0" dur="22s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.33;0.66;1" keySplines="0.2 0.8 0.2 1; 0.2 0.8 0.2 1; 0.2 0.8 0.2 1"/>
     </radialGradient>
     <radialGradient id="cyanGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(942 92) rotate(139) scale(520 250)">
       <stop stop-color="#5EEBFF" stop-opacity="0.48"/>
       <stop offset="0.55" stop-color="#8B5CF6" stop-opacity="0.14"/>
       <stop offset="1" stop-color="var(--surface)" stop-opacity="0"/>
-      <animateTransform attributeName="gradientTransform" type="translate" additive="sum" values="0 0; -64 30; 42 -20; 0 0" dur="16s" repeatCount="indefinite"/>
+      <animateTransform attributeName="gradientTransform" type="translate" additive="sum" values="0 0; -64 24; 42 -18; 0 0" dur="24s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.33;0.66;1" keySplines="0.2 0.8 0.2 1; 0.2 0.8 0.2 1; 0.2 0.8 0.2 1"/>
     </radialGradient>
     <linearGradient id="panel" x1="88" y1="54" x2="1112" y2="366" gradientUnits="userSpaceOnUse">
       <stop stop-color="#FFFFFF" stop-opacity="0.13"/>
