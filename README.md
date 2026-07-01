@@ -4,27 +4,27 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/abhishek-sushant-chaskar-63748b219" title="LinkedIn">
-    <img src="./assets/links/linkedin.svg" width="42" height="42" alt="LinkedIn" />
+    <img src="./logos/Socials/Linkedin.png" width="42" height="42" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:abhishek.chaskar.tkc@gmail.com" title="Email">
-    <img src="./assets/links/mail.svg" width="42" height="42" alt="Email" />
+    <img src="./logos/Socials/Mail.png" width="42" height="42" alt="Email" />
   </a>
   &nbsp;&nbsp;
   <a href="https://medium.com/@abhishek.chaskar.tkc" title="Medium">
-    <img src="./assets/links/medium.svg" width="42" height="42" alt="Medium" />
+    <img src="./logos/Socials/Medium.png" width="42" height="42" alt="Medium" />
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/abhi_c_2004" title="Instagram">
-    <img src="./assets/links/instagram.svg" width="42" height="42" alt="Instagram" />
+    <img src="./logos/Socials/Instagram.png" width="42" height="42" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
   <a href="https://pinterest.com/abhishekchaskartkc" title="Pinterest">
-    <img src="./assets/links/pinterest.svg" width="42" height="42" alt="Pinterest" />
+    <img src="./logos/Socials/Pinterest.png" width="42" height="42" alt="Pinterest" />
   </a>
   &nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/32882847" title="Stack Overflow">
-    <img src="./assets/links/stackoverflow.svg" width="42" height="42" alt="Stack Overflow" />
+    <img src="./logos/Socials/Stackoverflow.png" width="42" height="42" alt="Stack Overflow" />
   </a>
 </p>
 

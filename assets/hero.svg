@@ -10,6 +10,9 @@
         --ink: #0F172A;
         --ink-muted: #334155;
         --ink-accent: #5B21B6;
+        --hero-name-start: #4C1D95;
+        --hero-name-mid: #6D28D9;
+        --hero-name-end: #0891B2;
         --line: #A78BFA;
         --glass-fill: #FFFFFF;
         --glass-opacity: .86;
@@ -24,6 +27,9 @@
           --ink: #FFFFFF;
           --ink-muted: #E5E7EB;
           --ink-accent: #C4B5FD;
+          --hero-name-start: #FFFFFF;
+          --hero-name-mid: #E9D5FF;
+          --hero-name-end: #5EEBFF;
           --line: #FFFFFF;
           --glass-fill: #FFFFFF;
           --glass-opacity: .10;
@@ -54,9 +60,9 @@
       <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.16"/>
     </linearGradient>
     <linearGradient id="nameGradient" x1="254" y1="146" x2="950" y2="146" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FFFFFF"/>
-      <stop offset="0.48" stop-color="#E9D5FF"/>
-      <stop offset="1" stop-color="#5EEBFF"/>
+      <stop stop-color="var(--hero-name-start)"/>
+      <stop offset="0.48" stop-color="var(--hero-name-mid)"/>
+      <stop offset="1" stop-color="var(--hero-name-end)"/>
     </linearGradient>
     <filter id="softShadow" x="62" y="26" width="1076" height="368" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
       <feDropShadow dx="0" dy="28" stdDeviation="34" flood-color="var(--shadow)" flood-opacity="0.42"/>
