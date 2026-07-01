@@ -1,5 +1,5 @@
 <p align="center">
-  <a><img src="./assets/hero.svg" width="100%" alt="Abhishek Chaskar - AI Engineer, Full Stack Developer, and Automation Builder" /></a>
+  <a href="#no-op"><img src="./assets/hero.svg" width="100%" alt="Abhishek Chaskar - AI Engineer, Full Stack Developer, and Automation Builder" /></a>
 </p>
 
 <p align="center">
@@ -29,55 +29,55 @@
 </p>
 
 <p align="center">
-  <a><img src="./assets/divider.svg" width="100%" alt="" /></a>
+  <a href="#no-op"><img src="./assets/divider.svg" width="100%" alt="" /></a>
 </p>
 
 ## About
 
 <p align="center">
-  <a><img src="./assets/about-dynamic.svg" width="100%" alt="About Abhishek Chaskar: AI, automation, full stack engineering, ztudium, OpenAI, Gemini, n8n, React, Node.js, GraphQL, Supabase, and Strapi." /></a>
+  <a href="#no-op"><img src="./assets/about-dynamic.svg" width="100%" alt="About Abhishek Chaskar: AI, automation, full stack engineering, ztudium, OpenAI, Gemini, n8n, React, Node.js, GraphQL, Supabase, and Strapi." /></a>
 </p>
 
 > I like building software that feels premium, performs reliably, and solves real-world problems.
 
 <p align="center">
-  <a><img src="./assets/divider.svg" width="100%" alt="" /></a>
+  <a href="#no-op"><img src="./assets/divider.svg" width="100%" alt="" /></a>
 </p>
 
 ## Focus Areas
 
 <p align="center">
-  <a><img src="./assets/focus-cards.svg" width="100%" alt="Focus areas: Agentic AI, RAG and knowledge systems, AI product development, and workflow automation." /></a>
+  <a href="#no-op"><img src="./assets/focus-cards.svg" width="100%" alt="Focus areas: Agentic AI, RAG and knowledge systems, AI product development, and workflow automation." /></a>
 </p>
 
 <p align="center">
-  <a><img src="./assets/divider.svg" width="100%" alt="" /></a>
+  <a href="#no-op"><img src="./assets/divider.svg" width="100%" alt="" /></a>
 </p>
 
 ## Tech Stack
 
 <p align="center">
-  <a><img src="./assets/tech-stack-board.svg" width="100%" alt="Technology stack board with React, Next.js, JavaScript, Node.js, Python, OpenAI, Gemini, Supabase, n8n, Docker, GitHub, AWS, and Figma." /></a>
+  <a href="#no-op"><img src="./assets/tech-stack-board.svg" width="100%" alt="Technology stack board with React, Next.js, JavaScript, Node.js, Python, OpenAI, Gemini, Supabase, n8n, Docker, GitHub, AWS, and Figma." /></a>
 </p>
 
 <p align="center">
-  <a><img src="./assets/divider.svg" width="100%" alt="" /></a>
+  <a href="#no-op"><img src="./assets/divider.svg" width="100%" alt="" /></a>
 </p>
 
 ## Ask Me About
 
 <p align="center">
-  <a><img src="./assets/ask-me-about.svg" width="100%" alt="Ask me about: Artificial Intelligence, Machine Learning, Prompt Engineering, AI Automation, Computer Vision, React and Node.js, Python, GraphQL, Supabase, REST APIs, Hackathons, and Tech Startups." /></a>
+  <a href="#no-op"><img src="./assets/ask-me-about.svg" width="100%" alt="Ask me about: Artificial Intelligence, Machine Learning, Prompt Engineering, AI Automation, Computer Vision, React and Node.js, Python, GraphQL, Supabase, REST APIs, Hackathons, and Tech Startups." /></a>
 </p>
 
 <p align="center">
-  <a><img src="./assets/divider.svg" width="100%" alt="" /></a>
+  <a href="#no-op"><img src="./assets/divider.svg" width="100%" alt="" /></a>
 </p>
 
 ## Projects Worth Highlighting
 
 <p align="center">
-  <a><img src="./assets/projects-showcase.svg" width="100%" alt="Recent projects mockup cards for Agentic AI Assistant, AI Automation Workflow System, HerbTech, Abhishek Apparels Digital Platform, and Portfolio." /></a>
+  <a href="#no-op"><img src="./assets/projects-showcase.svg" width="100%" alt="Recent projects mockup cards for Agentic AI Assistant, AI Automation Workflow System, HerbTech, Abhishek Apparels Digital Platform, and Portfolio." /></a>
 </p>
 
 <p align="center">
@@ -93,17 +93,17 @@
 </p>
 
 <p align="center">
-  <a><img src="./assets/divider.svg" width="100%" alt="" /></a>
+  <a href="#no-op"><img src="./assets/divider.svg" width="100%" alt="" /></a>
 </p>
 
 ## Currently Learning
 
 <p align="center">
-  <a><img src="./assets/currently-learning.svg" width="100%" alt="Currently learning: Agentic AI, Large Language Models, Google Gemini API, OpenAI API, GraphQL, n8n Automation, Supabase, Strapi CMS, Advanced Prompt Engineering, AI Product Development, Full Stack Development, and Workflow Automation." /></a>
+  <a href="#no-op"><img src="./assets/currently-learning.svg" width="100%" alt="Currently learning: Agentic AI, Large Language Models, Google Gemini API, OpenAI API, GraphQL, n8n Automation, Supabase, Strapi CMS, Advanced Prompt Engineering, AI Product Development, Full Stack Development, and Workflow Automation." /></a>
 </p>
 
 <p align="center">
-  <a><img src="./assets/divider.svg" width="100%" alt="" /></a>
+  <a href="#no-op"><img src="./assets/divider.svg" width="100%" alt="" /></a>
 </p>
 
 ## GitHub Analytics
@@ -130,27 +130,27 @@
 </p>
 
 <p align="center">
-  <a><img src="./assets/divider.svg" width="100%" alt="" /></a>
+  <a href="#no-op"><img src="./assets/divider.svg" width="100%" alt="" /></a>
 </p>
 
 ## Activity
 
 <p align="center">
-  <a><img src="./assets/activity-panel.svg" width="100%" alt="GitHub activity panel" /></a>
+  <a href="#no-op"><img src="./assets/activity-panel.svg" width="100%" alt="GitHub activity panel" /></a>
 </p>
 
 <p align="center">
-  <a><img src="./assets/divider.svg" width="100%" alt="" /></a>
+  <a href="#no-op"><img src="./assets/divider.svg" width="100%" alt="" /></a>
 </p>
 
 <p align="center">
-  <a><img src="./assets/quote-card.svg" width="100%" alt="Developer quote by Vannevar Bush" /></a>
+  <a href="#no-op"><img src="./assets/quote-card.svg" width="100%" alt="Developer quote by Vannevar Bush" /></a>
 </p>
 
 <p align="center">
-  <a><img src="./assets/divider.svg" width="100%" alt="" /></a>
+  <a href="#no-op"><img src="./assets/divider.svg" width="100%" alt="" /></a>
 </p>
 
 <p align="center">
-  <a><img src="./assets/footer.svg" width="100%" alt="Building with purpose. Shipping with speed." /></a>
+  <a href="#no-op"><img src="./assets/footer.svg" width="100%" alt="Building with purpose. Shipping with speed." /></a>
 </p>
