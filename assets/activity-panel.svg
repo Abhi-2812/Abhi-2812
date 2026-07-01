@@ -1,6 +1,6 @@
 ﻿<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Activity panel</title>
-  <desc id="desc">A local activity panel used when external contribution snake assets are unavailable.</desc>
+  <desc id="desc">A local activity panel with a contribution flow graphic.</desc>
   <defs>
     <style>
       :root {
@@ -39,8 +39,18 @@
   </defs>
   <rect width="1200" height="260" rx="32" fill="var(--surface)"/>
   <rect width="1200" height="260" rx="32" fill="url(#glow)"/>
-  <rect x="64" y="52" width="1072" height="156" rx="26" fill="var(--surface-soft)" fill-opacity="var(--glass-soft-opacity)" stroke="var(--glass-stroke)" stroke-opacity=".12"/>
-  <text x="600" y="108" text-anchor="middle" fill="var(--ink)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="850">GitHub activity is live on my profile</text>
-  <text x="600" y="146" text-anchor="middle" fill="var(--ink-accent)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="650">The contribution snake image is currently unavailable from the output branch, so this panel keeps the layout clean.</text>
+  <rect x="64" y="44" width="1072" height="172" rx="26" fill="var(--surface-soft)" fill-opacity="var(--glass-soft-opacity)" stroke="var(--glass-stroke)" stroke-opacity=".18"/>
+  <text x="600" y="92" text-anchor="middle" fill="var(--ink)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="850">GitHub activity</text>
+  <g transform="translate(222 122)">
+    <path d="M0 34C72 8 132 8 204 34C276 60 338 60 410 34C482 8 544 8 616 34C688 60 748 60 756 34" fill="none" stroke="#8B5CF6" stroke-width="8" stroke-linecap="round"/>
+    <path d="M0 34C72 8 132 8 204 34C276 60 338 60 410 34C482 8 544 8 616 34C688 60 748 60 756 34" fill="none" stroke="#5EEBFF" stroke-width="3" stroke-linecap="round" stroke-opacity=".82"/>
+    <circle cx="82" cy="20" r="7" fill="#5EEBFF"/>
+    <circle cx="216" cy="38" r="7" fill="#8B5CF6"/>
+    <circle cx="350" cy="48" r="7" fill="#5EEBFF"/>
+    <circle cx="488" cy="18" r="7" fill="#8B5CF6"/>
+    <circle cx="624" cy="36" r="7" fill="#5EEBFF"/>
+    <circle cx="742" cy="38" r="7" fill="#8B5CF6"/>
+  </g>
+  <text x="600" y="198" text-anchor="middle" fill="var(--ink-accent)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="650">Contribution activity flow for a clean profile layout.</text>
 </svg>
 

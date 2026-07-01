@@ -116,11 +116,7 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=light" />
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=light" alt="Random developer quote" />
-  </picture>
+  <img src="./assets/quote-card.svg" width="100%" alt="Developer quote by Vannevar Bush" />
 </p>
 
 <p align="center">

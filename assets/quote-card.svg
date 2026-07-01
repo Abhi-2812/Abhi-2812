@@ -1,0 +1,47 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Developer quote</title>
+  <desc id="desc">A rounded quote card with theme-aware light and dark colors.</desc>
+  <defs>
+    <style>
+      :root {
+        color-scheme: light dark;
+        --surface: #F4F7FB;
+        --card: #FFFFFF;
+        --ink: #111827;
+        --muted: #2563EB;
+        --stroke: #CBD5E1;
+        --shadow: #CBD5E1;
+      }
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --surface: #08080D;
+          --card: #12121B;
+          --ink: #E9D5FF;
+          --muted: #5EEBFF;
+          --stroke: #2D2350;
+          --shadow: #000000;
+        }
+      }
+      .q{font-family:Inter,Segoe UI,Arial,sans-serif;font-style:italic;font-weight:500}
+      .a{font-family:Inter,Segoe UI,Arial,sans-serif;font-style:italic;font-weight:650}
+    </style>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(620 260) rotate(0) scale(660 140)">
+      <stop stop-color="#8B5CF6" stop-opacity=".22"/>
+      <stop offset=".45" stop-color="#5EEBFF" stop-opacity=".18"/>
+      <stop offset="1" stop-color="var(--surface)" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="30" y="16" width="1140" height="218" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="var(--shadow)" flood-opacity=".22"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="260" rx="0" fill="var(--surface)"/>
+  <rect width="1200" height="260" fill="url(#glow)"/>
+  <g filter="url(#soft)">
+    <rect x="64" y="34" width="1072" height="184" rx="18" fill="var(--card)" stroke="var(--stroke)"/>
+  </g>
+  <text x="106" y="82" fill="var(--muted)" class="q" font-size="28">"</text>
+  <text x="132" y="84" fill="var(--ink)" class="q" font-size="28">Two centuries ago Leibnitz invented a calculating machine which</text>
+  <text x="132" y="122" fill="var(--ink)" class="q" font-size="28">embodied most of the essential features of recent keyboard</text>
+  <text x="132" y="160" fill="var(--ink)" class="q" font-size="28">devices, but it could not then come into use.</text>
+  <text x="914" y="200" text-anchor="end" fill="var(--muted)" class="a" font-size="24">- Vannevar Bush</text>
+</svg>

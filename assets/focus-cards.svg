@@ -16,6 +16,8 @@
         --glass-soft-opacity: .72;
         --glass-stroke: #A78BFA;
         --shadow: #CBD5E1;
+        --card-start: .72;
+        --card-end: .46;
       }
       @media (prefers-color-scheme: dark) {
         :root {
@@ -30,6 +32,8 @@
           --glass-soft-opacity: .045;
           --glass-stroke: #FFFFFF;
           --shadow: #000000;
+          --card-start: .13;
+          --card-end: .055;
         }
       }
     </style>
@@ -38,8 +42,8 @@
       <stop offset="1" stop-color="var(--surface)" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="card" x1="74" y1="64" x2="530" y2="292" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FFFFFF" stop-opacity="0.13"/>
-      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.055"/>
+      <stop stop-color="#FFFFFF" stop-opacity="var(--card-start)"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="var(--card-end)"/>
     </linearGradient>
   </defs>
   <rect width="1200" height="430" rx="34" fill="var(--surface)"/>
