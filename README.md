@@ -40,10 +40,18 @@
 
 > I like building software that feels premium, performs reliably, and solves real-world problems.
 
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="" />
+</p>
+
 ## Focus Areas
 
 <p align="center">
   <img src="./assets/focus-cards.svg" width="100%" alt="Focus areas: Agentic AI, RAG and knowledge systems, AI product development, and workflow automation." />
+</p>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="" />
 </p>
 
 ## Tech Stack
@@ -52,10 +60,18 @@
   <img src="./assets/tech-stack-board.svg" width="100%" alt="Technology stack board with React, Next.js, JavaScript, Node.js, Python, OpenAI, Gemini, Supabase, n8n, Docker, GitHub, AWS, and Figma." />
 </p>
 
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="" />
+</p>
+
 ## Ask Me About
 
 <p align="center">
   <img src="./assets/ask-me-about.svg" width="100%" alt="Ask me about: Artificial Intelligence, Machine Learning, Prompt Engineering, AI Automation, Computer Vision, React and Node.js, Python, GraphQL, Supabase, REST APIs, Hackathons, and Tech Startups." />
+</p>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="" />
 </p>
 
 ## Projects Worth Highlighting
@@ -76,10 +92,18 @@
   <a href="#"><b>Portfolio / Personal Website</b></a>
 </p>
 
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="" />
+</p>
+
 ## Currently Learning
 
 <p align="center">
   <img src="./assets/currently-learning.svg" width="100%" alt="Currently learning: Agentic AI, Large Language Models, Google Gemini API, OpenAI API, GraphQL, n8n Automation, Supabase, Strapi CMS, Advanced Prompt Engineering, AI Product Development, Full Stack Development, and Workflow Automation." />
+</p>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="" />
 </p>
 
 ## GitHub Analytics
@@ -116,7 +140,15 @@
 </p>
 
 <p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="" />
+</p>
+
+<p align="center">
   <img src="./assets/quote-card.svg" width="100%" alt="Developer quote by Vannevar Bush" />
+</p>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="" />
 </p>
 
 <p align="center">
